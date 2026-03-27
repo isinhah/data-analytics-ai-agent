@@ -1,0 +1,1001 @@
+id_pedido,transportadora,valor_frete,cidade_destino,data_postagem,data_previsao_entrega,data_entrega_real,status_pedido,nota_review,comentario_cliente
+PED-1000,Loggi,117.97,Recife,2025-03-28,2025-04-05,2025-04-02,Entregue,5,Excelente atendimento e entrega.
+PED-1001,FedEx,149.9,Joinville,2025-03-27,2025-04-02,2025-03-29,Entregue,5,"Muito bom, sem reclamações."
+PED-1002,Loggi,28.56,São Paulo,2025-03-28,2025-04-04,2025-04-02,Entregue,5,Superou minhas expectativas!
+PED-1003,FedEx,25.34,Fortaleza,2025-03-29,2025-04-08,,Em Trânsito,3,"Chegou com pequeno atraso, mas o produto é bom."
+PED-1004,Jadlog,129.83,Curitiba,2025-03-28,2025-04-04,,Cancelado,2,"Suporte ruim, difícil contato."
+PED-1005,FedEx,46.87,Florianópolis,2025-03-29,2025-04-06,2025-04-06,Entregue,5,Entrega no prazo e produto conforme descrito.
+PED-1006,Loggi,50.04,São Paulo,2025-03-30,2025-04-09,2025-04-09,Entregue,4,"Muito bom, sem reclamações."
+PED-1007,Correios,78.75,Curitiba,2025-03-31,2025-04-09,,Em Trânsito,4,"Produto de qualidade, entrega pontual."
+PED-1008,FedEx,87.82,Joinville,2025-03-31,2025-04-06,2025-04-06,Entregue,4,"Chegou antes do prazo, excelente!"
+PED-1009,Loggi,18.25,Belém,2025-03-30,2025-04-06,2025-04-04,Entregue,5,"Frete rápido, adorei!"
+PED-1010,Jadlog,15.61,São Paulo,2025-03-30,2025-04-07,2025-04-05,Entregue,4,Entrega no prazo e produto conforme descrito.
+PED-1011,Loggi,21.0,São Paulo,2025-03-31,2025-04-09,2025-04-04,Entregue,5,"Muito bom, sem reclamações."
+PED-1012,Correios,20.63,São Paulo,2025-03-31,2025-04-06,2025-04-04,Entregue,4,"Produto de qualidade, entrega pontual."
+PED-1013,Loggi,51.72,Belo Horizonte,2025-04-02,2025-04-11,2025-04-10,Entregue,4,"Chegou antes do prazo, excelente!"
+PED-1014,Correios,122.24,Rio de Janeiro,2025-04-01,2025-04-10,2025-04-07,Entregue,5,"Muito bom, sem reclamações."
+PED-1015,Correios,22.39,Salvador,2025-04-01,2025-04-11,2025-04-15,Entregue,1,Nunca mais compro aqui.
+PED-1016,Correios,120.75,São Paulo,2025-04-02,2025-04-11,2025-04-07,Entregue,5,Superou minhas expectativas!
+PED-1017,FedEx,101.34,Joinville,2025-04-03,2025-04-11,2025-04-12,Entregue,2,Frete caro e entrega lenta.
+PED-1018,FedEx,100.97,Rio de Janeiro,2025-04-03,2025-04-13,2025-04-13,Entregue,4,Parabéns pela agilidade!
+PED-1019,Correios,19.21,São Paulo,2025-04-04,2025-04-11,,Em Trânsito,4,"Qualidade impecável, voltarei a comprar."
+PED-1020,Correios,39.97,Curitiba,2025-04-03,2025-04-11,2025-04-07,Entregue,5,"Entrega rápida, muito satisfeito!"
+PED-1021,Loggi,58.88,Curitiba,2025-04-03,2025-04-13,,Em Trânsito,3,Entrega demorou mais que o previsto.
+PED-1022,Correios,24.46,São Paulo,2025-04-05,2025-04-14,2025-04-07,Entregue,5,"Muito bom, sem reclamações."
+PED-1023,Correios,76.47,Manaus,2025-04-05,2025-04-13,2025-04-12,Entregue,4,"Produto original, vendedor confiável."
+PED-1024,Jadlog,139.22,Salvador,2025-04-04,2025-04-14,2025-04-15,Entregue,2,"Não recomendo, péssima experiência."
+PED-1025,Jadlog,15.4,Recife,2025-04-06,2025-04-11,,Cancelado,1,Muito atraso na entrega.
+PED-1026,Loggi,22.21,Goiânia,2025-04-05,2025-04-15,2025-04-13,Entregue,5,"Embalagem perfeita, produto intacto."
+PED-1027,FedEx,23.61,Joinville,2025-04-07,2025-04-12,,Em Trânsito,4,"Produto original, vendedor confiável."
+PED-1028,FedEx,54.13,Goiânia,2025-04-08,2025-04-13,2025-04-10,Entregue,5,"Qualidade impecável, voltarei a comprar."
+PED-1029,Correios,58.89,Curitiba,2025-04-08,2025-04-16,2025-04-21,Entregue,1,"Veio errado, tive que devolver."
+PED-1030,FedEx,25.35,Belo Horizonte,2025-04-10,2025-04-15,,Em Trânsito,2,"Veio errado, tive que devolver."
+PED-1031,Loggi,45.51,Rio de Janeiro,2025-04-09,2025-04-17,2025-04-15,Entregue,5,"Entrega rápida, muito satisfeito!"
+PED-1032,FedEx,25.49,Belo Horizonte,2025-04-09,2025-04-14,2025-04-11,Entregue,4,"Entrega rápida, muito satisfeito!"
+PED-1033,Loggi,51.62,Curitiba,2025-04-10,2025-04-15,2025-04-13,Entregue,5,"Frete rápido, adorei!"
+PED-1034,Correios,122.53,Rio de Janeiro,2025-04-11,2025-04-21,,Em Trânsito,3,"Produto bom, mas o frete foi caro."
+PED-1035,Jadlog,109.09,Campinas,2025-04-12,2025-04-22,2025-04-21,Entregue,5,Entrega no prazo e produto conforme descrito.
+PED-1036,FedEx,133.28,Florianópolis,2025-04-13,2025-04-20,2025-04-18,Entregue,4,Entrega no prazo e produto conforme descrito.
+PED-1037,FedEx,59.42,São Paulo,2025-04-12,2025-04-18,,Em Trânsito,2,Cancelei porque demorou demais.
+PED-1038,FedEx,73.59,Porto Alegre,2025-04-13,2025-04-22,2025-04-21,Entregue,4,"Chegou antes do prazo, excelente!"
+PED-1039,Loggi,140.88,São Paulo,2025-04-13,2025-04-22,2025-04-21,Entregue,5,"Frete rápido, adorei!"
+PED-1040,Correios,29.53,Curitiba,2025-04-15,2025-04-24,2025-04-23,Entregue,4,Entrega no prazo e produto conforme descrito.
+PED-1041,Loggi,17.52,Porto Alegre,2025-04-14,2025-04-24,,Extraviado,1,"Embalagem danificada, produto riscado."
+PED-1042,FedEx,22.51,Campinas,2025-04-15,2025-04-20,2025-04-19,Entregue,4,"Tudo certo, nota 10!"
+PED-1043,Loggi,91.01,Belém,2025-04-14,2025-04-23,2025-04-26,Entregue,1,Decepcionante do início ao fim.
+PED-1044,Correios,42.36,Belo Horizonte,2025-04-15,2025-04-20,2025-04-21,Entregue,1,Pior experiência de compra online.
+PED-1045,Jadlog,32.68,Rio de Janeiro,2025-04-16,2025-04-24,2025-04-22,Entregue,4,"Produto top, recomendo!"
+PED-1046,Correios,58.9,Rio de Janeiro,2025-04-16,2025-04-26,,Em Trânsito,3,Entrega demorou mais que o previsto.
+PED-1047,Loggi,24.61,Campinas,2025-04-16,2025-04-21,2025-04-19,Entregue,4,Excelente atendimento e entrega.
+PED-1048,FedEx,26.55,Belo Horizonte,2025-04-17,2025-04-22,,Cancelado,1,"Suporte ruim, difícil contato."
+PED-1049,Jadlog,25.9,Curitiba,2025-04-16,2025-04-24,,Cancelado,2,Cancelei porque demorou demais.
+PED-1050,Jadlog,31.85,Campinas,2025-04-17,2025-04-23,,Extraviado,2,Atendimento ao cliente inexistente.
+PED-1051,FedEx,58.78,Belo Horizonte,2025-04-19,2025-04-25,2025-04-29,Entregue,1,"Embalagem danificada, produto riscado."
+PED-1052,Loggi,22.6,São Paulo,2025-04-19,2025-04-29,2025-04-28,Entregue,5,"Muito bom, sem reclamações."
+PED-1053,Jadlog,128.37,Curitiba,2025-04-19,2025-04-27,,Extraviado,1,Nunca mais compro aqui.
+PED-1054,Loggi,38.6,Rio de Janeiro,2025-04-19,2025-04-27,,Cancelado,2,Atrasou e a caixa veio amassada.
+PED-1055,Correios,22.98,Belo Horizonte,2025-04-19,2025-04-29,,Em Trânsito,4,"Chegou antes do prazo, excelente!"
+PED-1056,FedEx,29.31,Joinville,2025-04-20,2025-04-29,2025-04-22,Entregue,4,"Produto de qualidade, entrega pontual."
+PED-1057,Correios,26.08,Curitiba,2025-04-20,2025-04-28,2025-04-22,Entregue,4,"Entrega rápida, muito satisfeito!"
+PED-1058,Loggi,57.88,Curitiba,2025-04-22,2025-05-01,2025-04-29,Entregue,5,Excelente atendimento e entrega.
+PED-1059,Jadlog,34.24,Curitiba,2025-04-23,2025-04-29,,Em Trânsito,2,Pior experiência de compra online.
+PED-1060,FedEx,26.15,Salvador,2025-04-23,2025-04-28,2025-04-25,Entregue,4,"Produto top, recomendo!"
+PED-1061,Correios,21.53,Recife,2025-04-25,2025-05-01,2025-05-01,Entregue,4,"Muito bom, sem reclamações."
+PED-1062,Loggi,104.41,Curitiba,2025-04-26,2025-05-03,2025-05-03,Entregue,5,Parabéns pela agilidade!
+PED-1063,Loggi,60.08,Florianópolis,2025-04-27,2025-05-07,2025-05-04,Entregue,5,"Produto de qualidade, entrega pontual."
+PED-1064,Loggi,48.82,São Paulo,2025-04-27,2025-05-02,2025-04-29,Entregue,5,"Qualidade impecável, voltarei a comprar."
+PED-1065,Loggi,18.17,Recife,2025-04-28,2025-05-08,2025-05-06,Entregue,5,"Produto top, recomendo!"
+PED-1066,Loggi,17.82,São Paulo,2025-04-27,2025-05-03,2025-05-01,Entregue,5,Parabéns pela agilidade!
+PED-1067,Jadlog,85.96,Fortaleza,2025-04-27,2025-05-04,2025-05-01,Entregue,4,"Qualidade impecável, voltarei a comprar."
+PED-1068,Correios,62.21,Goiânia,2025-04-28,2025-05-08,2025-05-06,Entregue,4,Superou minhas expectativas!
+PED-1069,Loggi,28.56,São Paulo,2025-04-27,2025-05-03,2025-05-08,Entregue,1,"Não recomendo, péssima experiência."
+PED-1070,Correios,23.08,Belém,2025-04-28,2025-05-04,2025-05-02,Entregue,4,Entrega no prazo e produto conforme descrito.
+PED-1071,Jadlog,125.87,Belém,2025-04-28,2025-05-06,2025-05-05,Entregue,4,"Produto de qualidade, entrega pontual."
+PED-1072,Correios,76.65,Fortaleza,2025-04-29,2025-05-07,2025-05-06,Entregue,5,"Tudo certo, nota 10!"
+PED-1073,Loggi,23.41,Porto Alegre,2025-04-29,2025-05-07,2025-05-02,Entregue,4,"Tudo certo, nota 10!"
+PED-1074,Correios,91.25,Belo Horizonte,2025-04-29,2025-05-09,2025-05-03,Entregue,5,"Entrega rápida, muito satisfeito!"
+PED-1075,Jadlog,16.42,Campinas,2025-04-29,2025-05-05,2025-05-01,Entregue,5,"Chegou antes do prazo, excelente!"
+PED-1076,FedEx,86.18,Recife,2025-04-30,2025-05-06,2025-05-05,Entregue,4,"Produto top, recomendo!"
+PED-1077,FedEx,92.63,Porto Alegre,2025-04-30,2025-05-10,2025-05-09,Entregue,4,Ótimo custo-benefício!
+PED-1078,Correios,43.13,Rio de Janeiro,2025-05-01,2025-05-06,2025-05-06,Entregue,5,Superou minhas expectativas!
+PED-1079,FedEx,67.98,São Paulo,2025-05-02,2025-05-07,2025-05-07,Entregue,5,"Qualidade impecável, voltarei a comprar."
+PED-1080,Loggi,24.59,Rio de Janeiro,2025-05-02,2025-05-09,2025-05-06,Entregue,5,Entrega no prazo e produto conforme descrito.
+PED-1081,Correios,19.33,Rio de Janeiro,2025-05-02,2025-05-12,2025-05-12,Entregue,4,Ótimo custo-benefício!
+PED-1082,FedEx,17.18,Porto Alegre,2025-05-03,2025-05-12,,Extraviado,1,"Veio errado, tive que devolver."
+PED-1083,Jadlog,21.96,São Paulo,2025-05-04,2025-05-14,2025-05-06,Entregue,4,"Produto de qualidade, entrega pontual."
+PED-1084,Correios,50.5,São Paulo,2025-05-04,2025-05-13,2025-05-13,Entregue,5,"Qualidade impecável, voltarei a comprar."
+PED-1085,Correios,92.94,Belo Horizonte,2025-05-04,2025-05-10,2025-05-14,Entregue,1,Atendimento ao cliente inexistente.
+PED-1086,Loggi,22.03,Curitiba,2025-05-04,2025-05-11,2025-05-06,Entregue,4,Superou minhas expectativas!
+PED-1087,Jadlog,29.98,Rio de Janeiro,2025-05-04,2025-05-13,2025-05-12,Entregue,5,"Chegou antes do prazo, excelente!"
+PED-1088,Jadlog,25.58,Curitiba,2025-05-04,2025-05-10,2025-05-08,Entregue,5,Excelente atendimento e entrega.
+PED-1089,FedEx,53.9,Joinville,2025-05-06,2025-05-12,2025-05-11,Entregue,4,"Qualidade impecável, voltarei a comprar."
+PED-1090,Correios,23.88,São Paulo,2025-05-06,2025-05-15,2025-05-20,Entregue,3,"Chegou com pequeno atraso, mas o produto é bom."
+PED-1091,Correios,66.84,Porto Alegre,2025-05-06,2025-05-13,2025-05-10,Entregue,5,"Muito bom, sem reclamações."
+PED-1092,Correios,49.29,Curitiba,2025-05-08,2025-05-16,,Cancelado,1,Atrasou e a caixa veio amassada.
+PED-1093,Loggi,53.71,Salvador,2025-05-07,2025-05-17,2025-05-16,Entregue,5,"Produto original, vendedor confiável."
+PED-1094,Jadlog,22.63,Curitiba,2025-05-08,2025-05-18,2025-05-16,Entregue,5,"Chegou antes do prazo, excelente!"
+PED-1095,Correios,42.88,Salvador,2025-05-08,2025-05-15,,Cancelado,3,Esperava mais pela qualidade do produto.
+PED-1096,FedEx,48.53,Curitiba,2025-05-09,2025-05-17,,Extraviado,1,"Não recomendo, péssima experiência."
+PED-1097,FedEx,42.59,Belém,2025-05-09,2025-05-16,2025-05-21,Entregue,1,Decepcionante do início ao fim.
+PED-1098,Jadlog,27.01,Curitiba,2025-05-08,2025-05-14,2025-05-12,Entregue,4,Excelente atendimento e entrega.
+PED-1099,Loggi,21.4,Joinville,2025-05-10,2025-05-15,2025-05-13,Entregue,4,"Tudo certo, nota 10!"
+PED-1100,Jadlog,33.98,Manaus,2025-05-09,2025-05-19,2025-05-20,Entregue,3,Esperava mais pela qualidade do produto.
+PED-1101,Loggi,130.26,Curitiba,2025-05-09,2025-05-16,2025-05-11,Entregue,4,Excelente atendimento e entrega.
+PED-1102,Jadlog,71.53,São Paulo,2025-05-09,2025-05-16,,Em Trânsito,3,"Nada de especial, cumpriu o básico."
+PED-1103,FedEx,29.68,Joinville,2025-05-09,2025-05-14,2025-05-13,Entregue,5,"Produto de qualidade, entrega pontual."
+PED-1104,Jadlog,52.37,Belo Horizonte,2025-05-10,2025-05-19,2025-05-24,Entregue,2,Frete caro e entrega lenta.
+PED-1105,FedEx,127.01,Manaus,2025-05-10,2025-05-18,2025-05-22,Entregue,2,Muito atraso na entrega.
+PED-1106,FedEx,50.56,Joinville,2025-05-10,2025-05-16,,Extraviado,3,"Razoável, poderia ser melhor."
+PED-1107,Jadlog,40.39,Florianópolis,2025-05-11,2025-05-18,,Cancelado,3,"Produto bom, mas o frete foi caro."
+PED-1108,Loggi,27.07,Belo Horizonte,2025-05-11,2025-05-17,2025-05-16,Entregue,5,"Qualidade impecável, voltarei a comprar."
+PED-1109,Loggi,22.15,Campinas,2025-05-10,2025-05-15,2025-05-15,Entregue,5,"Tudo certo, nota 10!"
+PED-1110,Correios,20.64,São Paulo,2025-05-10,2025-05-16,2025-05-18,Entregue,1,Produto chegou com defeito.
+PED-1111,FedEx,90.59,Joinville,2025-05-10,2025-05-18,2025-05-12,Entregue,4,Superou minhas expectativas!
+PED-1112,Loggi,28.52,São Paulo,2025-05-12,2025-05-22,,Em Trânsito,4,"Chegou antes do prazo, excelente!"
+PED-1113,Loggi,130.63,Belém,2025-05-11,2025-05-20,2025-05-14,Entregue,5,"Frete rápido, adorei!"
+PED-1114,Jadlog,50.05,Curitiba,2025-05-11,2025-05-18,2025-05-15,Entregue,5,Ótimo custo-benefício!
+PED-1115,Correios,33.9,Goiânia,2025-05-12,2025-05-22,2025-05-17,Entregue,5,"Produto de qualidade, entrega pontual."
+PED-1116,FedEx,59.16,Curitiba,2025-05-12,2025-05-22,2025-05-22,Entregue,4,Superou minhas expectativas!
+PED-1117,FedEx,24.26,Joinville,2025-05-12,2025-05-19,2025-05-14,Entregue,5,"Entrega rápida, muito satisfeito!"
+PED-1118,Jadlog,74.39,Campinas,2025-05-13,2025-05-23,2025-05-20,Entregue,4,Superou minhas expectativas!
+PED-1119,Jadlog,38.75,Curitiba,2025-05-13,2025-05-19,2025-05-23,Entregue,2,Produto não era o que esperava.
+PED-1120,Jadlog,59.17,Manaus,2025-05-13,2025-05-21,2025-05-20,Entregue,4,Parabéns pela agilidade!
+PED-1121,Correios,115.54,Campinas,2025-05-13,2025-05-18,2025-05-16,Entregue,4,"Muito bom, sem reclamações."
+PED-1122,Correios,17.26,São Paulo,2025-05-14,2025-05-24,2025-05-20,Entregue,4,Entrega no prazo e produto conforme descrito.
+PED-1123,FedEx,16.58,Curitiba,2025-05-15,2025-05-22,2025-05-22,Entregue,5,"Qualidade impecável, voltarei a comprar."
+PED-1124,FedEx,24.28,Brasília,2025-05-14,2025-05-24,,Em Trânsito,4,"Muito bom, sem reclamações."
+PED-1125,Correios,16.98,São Paulo,2025-05-14,2025-05-21,2025-05-21,Entregue,5,"Qualidade impecável, voltarei a comprar."
+PED-1126,Loggi,59.38,Brasília,2025-05-14,2025-05-22,,Em Trânsito,2,Cancelei porque demorou demais.
+PED-1127,FedEx,36.69,Florianópolis,2025-05-15,2025-05-20,,Cancelado,1,Cancelei porque demorou demais.
+PED-1128,Jadlog,103.31,Belo Horizonte,2025-05-15,2025-05-24,2025-05-20,Entregue,4,Parabéns pela agilidade!
+PED-1129,Loggi,22.44,Florianópolis,2025-05-15,2025-05-20,2025-05-18,Entregue,4,"Produto de qualidade, entrega pontual."
+PED-1130,Correios,63.74,Belo Horizonte,2025-05-16,2025-05-24,2025-05-18,Entregue,5,Parabéns pela agilidade!
+PED-1131,FedEx,111.63,Joinville,2025-05-16,2025-05-25,2025-05-23,Entregue,5,"Produto top, recomendo!"
+PED-1132,Correios,118.31,São Paulo,2025-05-15,2025-05-25,2025-05-20,Entregue,5,Entrega no prazo e produto conforme descrito.
+PED-1133,FedEx,38.41,São Paulo,2025-05-16,2025-05-24,2025-05-22,Entregue,5,"Qualidade impecável, voltarei a comprar."
+PED-1134,Jadlog,53.12,Porto Alegre,2025-05-16,2025-05-22,,Em Trânsito,4,Parabéns pela agilidade!
+PED-1135,FedEx,87.81,Salvador,2025-05-16,2025-05-26,,Em Trânsito,3,"Razoável, poderia ser melhor."
+PED-1136,FedEx,141.05,Curitiba,2025-05-17,2025-05-22,2025-05-24,Entregue,2,Atendimento ao cliente inexistente.
+PED-1137,Correios,138.2,Joinville,2025-05-17,2025-05-24,2025-05-23,Entregue,4,Excelente atendimento e entrega.
+PED-1138,Loggi,32.61,Joinville,2025-05-17,2025-05-24,2025-05-22,Entregue,5,Ótimo custo-benefício!
+PED-1139,FedEx,148.14,Recife,2025-05-17,2025-05-23,2025-05-22,Entregue,5,Parabéns pela agilidade!
+PED-1140,FedEx,137.77,Rio de Janeiro,2025-05-19,2025-05-25,2025-05-22,Entregue,4,"Muito bom, sem reclamações."
+PED-1141,Jadlog,17.65,São Paulo,2025-05-20,2025-05-25,2025-05-22,Entregue,4,"Entrega rápida, muito satisfeito!"
+PED-1142,Correios,128.06,Belo Horizonte,2025-05-19,2025-05-28,2025-05-23,Entregue,5,"Entrega rápida, muito satisfeito!"
+PED-1143,FedEx,58.93,Joinville,2025-05-20,2025-05-26,2025-05-22,Entregue,5,"Frete rápido, adorei!"
+PED-1144,Jadlog,126.27,São Paulo,2025-05-21,2025-05-26,2025-05-23,Entregue,5,"Produto top, recomendo!"
+PED-1145,Correios,108.18,Brasília,2025-05-21,2025-05-26,2025-05-28,Entregue,2,Produto não era o que esperava.
+PED-1146,Correios,139.93,Goiânia,2025-05-21,2025-05-29,2025-05-24,Entregue,5,Parabéns pela agilidade!
+PED-1147,FedEx,66.64,Curitiba,2025-05-21,2025-05-27,2025-05-30,Entregue,1,Produto não era o que esperava.
+PED-1148,Correios,22.13,Curitiba,2025-05-22,2025-06-01,2025-05-27,Entregue,4,"Muito bom, sem reclamações."
+PED-1149,Loggi,71.75,São Paulo,2025-05-22,2025-05-28,,Cancelado,2,Produto não era o que esperava.
+PED-1150,FedEx,61.26,Manaus,2025-05-22,2025-06-01,,Em Trânsito,2,Atendimento ao cliente inexistente.
+PED-1151,Correios,113.79,Campinas,2025-05-23,2025-05-28,,Cancelado,2,Atendimento ao cliente inexistente.
+PED-1152,Correios,19.82,Brasília,2025-05-22,2025-05-30,,Cancelado,2,"Veio errado, tive que devolver."
+PED-1153,Correios,29.58,Porto Alegre,2025-05-23,2025-05-31,2025-05-26,Entregue,5,"Qualidade impecável, voltarei a comprar."
+PED-1154,FedEx,18.37,Joinville,2025-05-22,2025-05-29,2025-06-02,Entregue,2,Atendimento ao cliente inexistente.
+PED-1155,FedEx,57.9,Manaus,2025-05-23,2025-06-02,2025-06-01,Entregue,5,"Embalagem perfeita, produto intacto."
+PED-1156,Correios,144.7,Belo Horizonte,2025-05-24,2025-05-30,2025-06-04,Entregue,3,"Produto bom, mas o frete foi caro."
+PED-1157,FedEx,58.28,Goiânia,2025-05-23,2025-06-02,2025-06-07,Entregue,3,Entrega demorou mais que o previsto.
+PED-1158,FedEx,115.09,Belo Horizonte,2025-05-25,2025-06-01,2025-06-01,Entregue,5,"Chegou antes do prazo, excelente!"
+PED-1159,Loggi,67.62,Recife,2025-05-24,2025-05-30,2025-05-27,Entregue,5,Excelente atendimento e entrega.
+PED-1160,Jadlog,84.71,São Paulo,2025-05-26,2025-06-02,2025-05-31,Entregue,4,"Frete rápido, adorei!"
+PED-1161,Loggi,45.9,Belém,2025-05-26,2025-06-03,2025-06-07,Entregue,1,Atendimento ao cliente inexistente.
+PED-1162,FedEx,34.6,Joinville,2025-05-25,2025-06-01,2025-05-30,Entregue,4,"Tudo certo, nota 10!"
+PED-1163,Jadlog,77.75,Rio de Janeiro,2025-05-25,2025-06-02,2025-05-31,Entregue,5,"Produto top, recomendo!"
+PED-1164,Jadlog,98.64,Curitiba,2025-05-27,2025-06-05,2025-06-04,Entregue,5,"Qualidade impecável, voltarei a comprar."
+PED-1165,Jadlog,17.1,São Paulo,2025-05-27,2025-06-04,2025-06-04,Entregue,5,Parabéns pela agilidade!
+PED-1166,Jadlog,16.19,Porto Alegre,2025-05-28,2025-06-07,2025-06-03,Entregue,5,"Muito bom, sem reclamações."
+PED-1167,Correios,29.14,Joinville,2025-05-29,2025-06-06,2025-05-31,Entregue,4,"Frete rápido, adorei!"
+PED-1168,Jadlog,22.58,São Paulo,2025-05-29,2025-06-04,2025-06-01,Entregue,5,"Chegou antes do prazo, excelente!"
+PED-1169,Loggi,47.42,Rio de Janeiro,2025-05-29,2025-06-05,,Em Trânsito,4,Superou minhas expectativas!
+PED-1170,FedEx,120.36,Florianópolis,2025-05-29,2025-06-08,2025-05-31,Entregue,5,"Produto top, recomendo!"
+PED-1171,Jadlog,52.82,Florianópolis,2025-05-30,2025-06-05,2025-06-03,Entregue,4,Entrega no prazo e produto conforme descrito.
+PED-1172,FedEx,19.85,São Paulo,2025-05-30,2025-06-05,2025-06-03,Entregue,5,"Embalagem perfeita, produto intacto."
+PED-1173,FedEx,131.47,Curitiba,2025-05-30,2025-06-07,2025-06-02,Entregue,5,"Tudo certo, nota 10!"
+PED-1174,Jadlog,46.03,São Paulo,2025-05-30,2025-06-07,,Cancelado,2,Pior experiência de compra online.
+PED-1175,FedEx,44.51,Salvador,2025-05-31,2025-06-05,2025-06-05,Entregue,4,"Entrega rápida, muito satisfeito!"
+PED-1176,FedEx,17.04,Curitiba,2025-05-30,2025-06-07,2025-06-06,Entregue,4,Ótimo custo-benefício!
+PED-1177,FedEx,83.21,Recife,2025-06-01,2025-06-06,2025-06-04,Entregue,5,"Tudo certo, nota 10!"
+PED-1178,Jadlog,26.4,Rio de Janeiro,2025-05-31,2025-06-08,2025-06-04,Entregue,4,Entrega no prazo e produto conforme descrito.
+PED-1179,FedEx,114.04,São Paulo,2025-05-31,2025-06-08,2025-06-06,Entregue,4,"Produto original, vendedor confiável."
+PED-1180,Loggi,46.7,São Paulo,2025-06-02,2025-06-12,2025-06-16,Entregue,3,"Chegou com pequeno atraso, mas o produto é bom."
+PED-1181,Correios,129.73,Joinville,2025-06-02,2025-06-07,2025-06-06,Entregue,5,"Qualidade impecável, voltarei a comprar."
+PED-1182,Loggi,59.29,Recife,2025-06-03,2025-06-10,,Em Trânsito,4,Excelente atendimento e entrega.
+PED-1183,Correios,38.74,Porto Alegre,2025-06-02,2025-06-07,2025-06-04,Entregue,5,"Produto original, vendedor confiável."
+PED-1184,Jadlog,70.27,São Paulo,2025-06-02,2025-06-11,2025-06-08,Entregue,4,"Qualidade impecável, voltarei a comprar."
+PED-1185,Correios,52.97,São Paulo,2025-06-02,2025-06-10,,Cancelado,1,"Não recomendo, péssima experiência."
+PED-1186,Jadlog,105.02,Curitiba,2025-06-05,2025-06-13,2025-06-11,Entregue,5,"Produto original, vendedor confiável."
+PED-1187,Correios,20.63,Porto Alegre,2025-06-05,2025-06-15,2025-06-07,Entregue,5,Ótimo custo-benefício!
+PED-1188,Loggi,46.37,Belo Horizonte,2025-06-04,2025-06-09,2025-06-09,Entregue,4,"Embalagem perfeita, produto intacto."
+PED-1189,Jadlog,21.25,Joinville,2025-06-05,2025-06-15,2025-06-15,Entregue,4,"Chegou antes do prazo, excelente!"
+PED-1190,Correios,17.98,Rio de Janeiro,2025-06-05,2025-06-15,2025-06-10,Entregue,4,"Qualidade impecável, voltarei a comprar."
+PED-1191,Jadlog,23.66,Florianópolis,2025-06-05,2025-06-10,2025-06-08,Entregue,5,"Entrega rápida, muito satisfeito!"
+PED-1192,FedEx,146.67,São Paulo,2025-06-07,2025-06-13,2025-06-09,Entregue,5,"Embalagem perfeita, produto intacto."
+PED-1193,Jadlog,119.63,Florianópolis,2025-06-06,2025-06-11,2025-06-15,Entregue,3,"Nada de especial, cumpriu o básico."
+PED-1194,FedEx,66.94,São Paulo,2025-06-06,2025-06-12,2025-06-09,Entregue,5,"Frete rápido, adorei!"
+PED-1195,Loggi,32.78,São Paulo,2025-06-07,2025-06-14,,Em Trânsito,4,"Muito bom, sem reclamações."
+PED-1196,Jadlog,119.2,Rio de Janeiro,2025-06-07,2025-06-15,2025-06-15,Entregue,4,"Produto top, recomendo!"
+PED-1197,Correios,46.87,Curitiba,2025-06-07,2025-06-13,2025-06-09,Entregue,5,Superou minhas expectativas!
+PED-1198,FedEx,112.76,Florianópolis,2025-06-08,2025-06-14,2025-06-12,Entregue,4,Entrega no prazo e produto conforme descrito.
+PED-1199,FedEx,108.45,Salvador,2025-06-08,2025-06-16,,Extraviado,3,Esperava mais pela qualidade do produto.
+PED-1200,Correios,65.76,São Paulo,2025-06-09,2025-06-15,2025-06-15,Entregue,4,Ótimo custo-benefício!
+PED-1201,Correios,27.99,Brasília,2025-06-10,2025-06-17,2025-06-12,Entregue,5,"Tudo certo, nota 10!"
+PED-1202,Loggi,127.24,Porto Alegre,2025-06-09,2025-06-14,,Em Trânsito,4,Excelente atendimento e entrega.
+PED-1203,Correios,15.69,Florianópolis,2025-06-09,2025-06-15,2025-06-11,Entregue,5,"Produto top, recomendo!"
+PED-1204,Jadlog,45.02,Belo Horizonte,2025-06-10,2025-06-20,2025-06-18,Entregue,5,Parabéns pela agilidade!
+PED-1205,Correios,28.25,Salvador,2025-06-11,2025-06-20,2025-06-20,Entregue,5,Parabéns pela agilidade!
+PED-1206,Jadlog,57.69,Rio de Janeiro,2025-06-11,2025-06-17,2025-06-17,Entregue,5,"Produto top, recomendo!"
+PED-1207,FedEx,58.7,São Paulo,2025-06-11,2025-06-20,2025-06-22,Entregue,2,Muito atraso na entrega.
+PED-1208,Loggi,121.11,Curitiba,2025-06-10,2025-06-15,2025-06-12,Entregue,4,"Produto top, recomendo!"
+PED-1209,Loggi,21.55,Curitiba,2025-06-12,2025-06-21,2025-06-20,Entregue,5,Ótimo custo-benefício!
+PED-1210,Jadlog,15.87,Belo Horizonte,2025-06-11,2025-06-19,2025-06-24,Entregue,1,"Embalagem danificada, produto riscado."
+PED-1211,FedEx,33.4,Brasília,2025-06-11,2025-06-19,,Em Trânsito,3,"Produto ok, mas a entrega atrasou um pouco."
+PED-1212,Correios,23.79,Porto Alegre,2025-06-12,2025-06-20,2025-06-20,Entregue,4,Parabéns pela agilidade!
+PED-1213,Jadlog,47.74,São Paulo,2025-06-12,2025-06-20,,Em Trânsito,3,"Nada de especial, cumpriu o básico."
+PED-1214,FedEx,55.54,Rio de Janeiro,2025-06-14,2025-06-20,2025-06-16,Entregue,5,"Tudo certo, nota 10!"
+PED-1215,Loggi,29.82,São Paulo,2025-06-14,2025-06-19,2025-06-19,Entregue,5,"Tudo certo, nota 10!"
+PED-1216,FedEx,25.82,Belo Horizonte,2025-06-14,2025-06-22,2025-06-16,Entregue,5,"Qualidade impecável, voltarei a comprar."
+PED-1217,Jadlog,84.12,São Paulo,2025-06-13,2025-06-22,2025-06-25,Entregue,1,Decepcionante do início ao fim.
+PED-1218,Correios,24.81,Joinville,2025-06-13,2025-06-18,2025-06-18,Entregue,5,"Tudo certo, nota 10!"
+PED-1219,Correios,15.37,Belo Horizonte,2025-06-14,2025-06-20,,Em Trânsito,3,"Produto ok, mas a entrega atrasou um pouco."
+PED-1220,Correios,69.24,Curitiba,2025-06-15,2025-06-23,2025-06-22,Entregue,4,"Frete rápido, adorei!"
+PED-1221,Correios,21.53,Rio de Janeiro,2025-06-14,2025-06-19,2025-06-17,Entregue,4,"Chegou antes do prazo, excelente!"
+PED-1222,Correios,25.93,Joinville,2025-06-15,2025-06-22,2025-06-20,Entregue,4,"Entrega rápida, muito satisfeito!"
+PED-1223,FedEx,66.19,Belo Horizonte,2025-06-15,2025-06-20,2025-06-18,Entregue,5,"Tudo certo, nota 10!"
+PED-1224,Loggi,72.62,São Paulo,2025-06-16,2025-06-23,2025-06-21,Entregue,4,Excelente atendimento e entrega.
+PED-1225,FedEx,25.64,São Paulo,2025-06-17,2025-06-27,2025-06-25,Entregue,4,"Entrega rápida, muito satisfeito!"
+PED-1226,Jadlog,63.48,Curitiba,2025-06-17,2025-06-26,,Cancelado,3,"Razoável, poderia ser melhor."
+PED-1227,Loggi,28.34,Florianópolis,2025-06-18,2025-06-28,,Cancelado,2,Atrasou e a caixa veio amassada.
+PED-1228,Jadlog,28.69,Manaus,2025-06-18,2025-06-26,2025-06-26,Entregue,4,"Qualidade impecável, voltarei a comprar."
+PED-1229,Jadlog,48.2,Belo Horizonte,2025-06-18,2025-06-26,2025-06-25,Entregue,4,"Produto top, recomendo!"
+PED-1230,Correios,49.79,Curitiba,2025-06-18,2025-06-27,2025-06-26,Entregue,4,Ótimo custo-benefício!
+PED-1231,FedEx,59.1,Belém,2025-06-19,2025-06-26,2025-06-24,Entregue,4,"Embalagem perfeita, produto intacto."
+PED-1232,Correios,67.77,São Paulo,2025-06-20,2025-06-27,2025-06-30,Entregue,1,Atrasou e a caixa veio amassada.
+PED-1233,FedEx,20.66,Florianópolis,2025-06-20,2025-06-25,2025-06-24,Entregue,5,"Entrega rápida, muito satisfeito!"
+PED-1234,FedEx,26.15,Campinas,2025-06-22,2025-06-27,,Extraviado,3,Esperava mais pela qualidade do produto.
+PED-1235,Loggi,84.93,Rio de Janeiro,2025-06-21,2025-06-30,2025-06-28,Entregue,4,"Produto de qualidade, entrega pontual."
+PED-1236,FedEx,70.59,São Paulo,2025-06-22,2025-06-30,2025-07-02,Entregue,1,Nunca mais compro aqui.
+PED-1237,Jadlog,27.29,Curitiba,2025-06-23,2025-06-28,2025-06-26,Entregue,5,"Produto top, recomendo!"
+PED-1238,FedEx,62.96,São Paulo,2025-06-23,2025-06-29,2025-06-25,Entregue,4,"Muito bom, sem reclamações."
+PED-1239,FedEx,133.12,São Paulo,2025-06-22,2025-06-29,2025-06-28,Entregue,4,"Produto original, vendedor confiável."
+PED-1240,FedEx,21.14,Campinas,2025-06-22,2025-06-27,,Em Trânsito,2,Frete caro e entrega lenta.
+PED-1241,Correios,45.51,Curitiba,2025-06-25,2025-06-30,2025-06-28,Entregue,5,"Embalagem perfeita, produto intacto."
+PED-1242,FedEx,100.99,Rio de Janeiro,2025-06-24,2025-07-01,2025-06-30,Entregue,5,Superou minhas expectativas!
+PED-1243,Jadlog,71.99,Florianópolis,2025-06-24,2025-06-29,2025-06-26,Entregue,4,Parabéns pela agilidade!
+PED-1244,Jadlog,52.44,São Paulo,2025-06-25,2025-07-01,,Extraviado,1,"Embalagem danificada, produto riscado."
+PED-1245,Correios,107.37,Curitiba,2025-06-26,2025-07-01,2025-06-28,Entregue,4,"Tudo certo, nota 10!"
+PED-1246,Jadlog,108.98,Joinville,2025-06-27,2025-07-06,2025-07-10,Entregue,1,Decepcionante do início ao fim.
+PED-1247,Jadlog,72.52,Curitiba,2025-06-26,2025-07-05,2025-07-04,Entregue,5,Ótimo custo-benefício!
+PED-1248,Loggi,147.59,São Paulo,2025-06-26,2025-07-04,2025-06-28,Entregue,5,"Produto de qualidade, entrega pontual."
+PED-1249,FedEx,81.45,Florianópolis,2025-06-27,2025-07-07,,Cancelado,2,Frete caro e entrega lenta.
+PED-1250,Jadlog,123.49,São Paulo,2025-06-28,2025-07-06,,Em Trânsito,3,"Nada de especial, cumpriu o básico."
+PED-1251,Loggi,24.42,Manaus,2025-06-29,2025-07-06,2025-07-04,Entregue,4,"Produto top, recomendo!"
+PED-1252,Correios,27.69,Curitiba,2025-06-30,2025-07-06,2025-07-02,Entregue,5,"Tudo certo, nota 10!"
+PED-1253,Correios,26.41,Recife,2025-06-29,2025-07-06,2025-07-04,Entregue,4,"Qualidade impecável, voltarei a comprar."
+PED-1254,Correios,89.68,Belo Horizonte,2025-06-29,2025-07-04,2025-07-01,Entregue,5,"Produto de qualidade, entrega pontual."
+PED-1255,Jadlog,46.76,São Paulo,2025-06-29,2025-07-04,2025-07-02,Entregue,4,"Frete rápido, adorei!"
+PED-1256,Jadlog,130.64,São Paulo,2025-06-30,2025-07-09,2025-07-02,Entregue,5,"Muito bom, sem reclamações."
+PED-1257,Loggi,43.02,Porto Alegre,2025-06-30,2025-07-09,2025-07-13,Entregue,1,Produto não era o que esperava.
+PED-1258,FedEx,143.62,São Paulo,2025-06-30,2025-07-08,2025-07-05,Entregue,4,"Chegou antes do prazo, excelente!"
+PED-1259,Jadlog,27.92,Curitiba,2025-06-30,2025-07-10,2025-07-12,Entregue,1,Produto não era o que esperava.
+PED-1260,Correios,28.71,Belo Horizonte,2025-07-01,2025-07-10,2025-07-08,Entregue,5,"Embalagem perfeita, produto intacto."
+PED-1261,Correios,65.15,São Paulo,2025-07-01,2025-07-11,2025-07-10,Entregue,4,"Qualidade impecável, voltarei a comprar."
+PED-1262,Loggi,135.66,São Paulo,2025-07-01,2025-07-06,2025-07-05,Entregue,5,"Muito bom, sem reclamações."
+PED-1263,Correios,31.51,Curitiba,2025-07-02,2025-07-08,,Extraviado,3,Embalagem poderia ser melhor.
+PED-1264,Correios,22.65,Porto Alegre,2025-07-03,2025-07-09,2025-07-05,Entregue,4,"Tudo certo, nota 10!"
+PED-1265,Correios,34.69,Florianópolis,2025-07-03,2025-07-09,,Em Trânsito,3,Esperava mais pela qualidade do produto.
+PED-1266,Jadlog,147.9,Rio de Janeiro,2025-07-03,2025-07-09,2025-07-08,Entregue,4,"Produto top, recomendo!"
+PED-1267,Loggi,22.22,São Paulo,2025-07-04,2025-07-10,2025-07-10,Entregue,4,"Qualidade impecável, voltarei a comprar."
+PED-1268,FedEx,24.19,Joinville,2025-07-03,2025-07-13,2025-07-11,Entregue,5,Entrega no prazo e produto conforme descrito.
+PED-1269,Correios,17.83,Curitiba,2025-07-03,2025-07-12,2025-07-09,Entregue,4,"Tudo certo, nota 10!"
+PED-1270,FedEx,28.18,Curitiba,2025-07-04,2025-07-12,,Extraviado,1,Produto não era o que esperava.
+PED-1271,Jadlog,123.85,Joinville,2025-07-04,2025-07-11,2025-07-09,Entregue,4,"Entrega rápida, muito satisfeito!"
+PED-1272,Jadlog,127.07,Belo Horizonte,2025-07-04,2025-07-10,2025-07-14,Entregue,2,Decepcionante do início ao fim.
+PED-1273,Correios,28.65,Campinas,2025-07-04,2025-07-12,2025-07-07,Entregue,4,"Frete rápido, adorei!"
+PED-1274,Loggi,35.74,Joinville,2025-07-04,2025-07-12,2025-07-12,Entregue,5,"Embalagem perfeita, produto intacto."
+PED-1275,Correios,104.57,Fortaleza,2025-07-04,2025-07-11,2025-07-07,Entregue,5,"Produto de qualidade, entrega pontual."
+PED-1276,FedEx,41.09,Belo Horizonte,2025-07-05,2025-07-14,2025-07-08,Entregue,4,"Produto de qualidade, entrega pontual."
+PED-1277,Jadlog,59.68,Manaus,2025-07-05,2025-07-13,2025-07-09,Entregue,4,"Frete rápido, adorei!"
+PED-1278,Loggi,28.3,Campinas,2025-07-06,2025-07-16,2025-07-10,Entregue,5,"Qualidade impecável, voltarei a comprar."
+PED-1279,FedEx,138.47,Rio de Janeiro,2025-07-06,2025-07-16,2025-07-17,Entregue,1,Frete caro e entrega lenta.
+PED-1280,FedEx,87.22,Curitiba,2025-07-06,2025-07-12,2025-07-11,Entregue,5,"Chegou antes do prazo, excelente!"
+PED-1281,FedEx,17.81,Belo Horizonte,2025-07-08,2025-07-15,2025-07-12,Entregue,4,Superou minhas expectativas!
+PED-1282,Loggi,67.97,Curitiba,2025-07-08,2025-07-14,2025-07-14,Entregue,5,Excelente atendimento e entrega.
+PED-1283,Loggi,132.44,São Paulo,2025-07-08,2025-07-13,2025-07-12,Entregue,5,Ótimo custo-benefício!
+PED-1284,Correios,25.7,Joinville,2025-07-08,2025-07-18,2025-07-12,Entregue,4,"Produto top, recomendo!"
+PED-1285,Correios,16.78,São Paulo,2025-07-07,2025-07-15,2025-07-14,Entregue,4,Ótimo custo-benefício!
+PED-1286,Jadlog,21.82,Belo Horizonte,2025-07-07,2025-07-12,2025-07-16,Entregue,1,Decepcionante do início ao fim.
+PED-1287,FedEx,28.5,Belo Horizonte,2025-07-07,2025-07-14,,Cancelado,2,Frete caro e entrega lenta.
+PED-1288,Jadlog,22.97,Goiânia,2025-07-09,2025-07-16,2025-07-15,Entregue,4,Excelente atendimento e entrega.
+PED-1289,Jadlog,16.92,São Paulo,2025-07-10,2025-07-17,2025-07-13,Entregue,5,"Tudo certo, nota 10!"
+PED-1290,Loggi,37.32,São Paulo,2025-07-10,2025-07-16,2025-07-18,Entregue,2,"Não recomendo, péssima experiência."
+PED-1291,Jadlog,54.84,Porto Alegre,2025-07-10,2025-07-15,2025-07-12,Entregue,5,"Produto de qualidade, entrega pontual."
+PED-1292,Loggi,48.65,São Paulo,2025-07-11,2025-07-17,2025-07-13,Entregue,4,"Frete rápido, adorei!"
+PED-1293,Jadlog,130.98,Curitiba,2025-07-11,2025-07-19,2025-07-14,Entregue,5,"Produto de qualidade, entrega pontual."
+PED-1294,Correios,19.51,São Paulo,2025-07-11,2025-07-17,2025-07-13,Entregue,4,"Qualidade impecável, voltarei a comprar."
+PED-1295,Jadlog,26.45,Salvador,2025-07-11,2025-07-18,2025-07-15,Entregue,5,"Produto de qualidade, entrega pontual."
+PED-1296,Jadlog,22.72,Campinas,2025-07-10,2025-07-18,2025-07-17,Entregue,5,Excelente atendimento e entrega.
+PED-1297,Jadlog,22.83,São Paulo,2025-07-12,2025-07-22,2025-07-14,Entregue,5,"Entrega rápida, muito satisfeito!"
+PED-1298,Loggi,97.25,Florianópolis,2025-07-12,2025-07-20,2025-07-22,Entregue,2,Decepcionante do início ao fim.
+PED-1299,Jadlog,28.39,Fortaleza,2025-07-11,2025-07-21,2025-07-14,Entregue,5,"Muito bom, sem reclamações."
+PED-1300,Jadlog,128.96,Recife,2025-07-12,2025-07-20,,Em Trânsito,4,Entrega no prazo e produto conforme descrito.
+PED-1301,Jadlog,59.36,Recife,2025-07-11,2025-07-16,2025-07-16,Entregue,4,Excelente atendimento e entrega.
+PED-1302,Jadlog,25.82,Joinville,2025-07-12,2025-07-17,2025-07-16,Entregue,4,"Tudo certo, nota 10!"
+PED-1303,Loggi,139.69,Belo Horizonte,2025-07-12,2025-07-20,,Em Trânsito,3,"Produto ok, mas a entrega atrasou um pouco."
+PED-1304,Correios,63.55,Porto Alegre,2025-07-13,2025-07-21,,Cancelado,1,Nunca mais compro aqui.
+PED-1305,FedEx,59.41,Brasília,2025-07-12,2025-07-17,2025-07-15,Entregue,4,Parabéns pela agilidade!
+PED-1306,FedEx,44.56,São Paulo,2025-07-12,2025-07-20,2025-07-20,Entregue,5,"Tudo certo, nota 10!"
+PED-1307,Jadlog,15.57,Recife,2025-07-13,2025-07-18,,Em Trânsito,3,Esperava mais pela qualidade do produto.
+PED-1308,Loggi,54.3,Florianópolis,2025-07-14,2025-07-19,2025-07-18,Entregue,4,Superou minhas expectativas!
+PED-1309,FedEx,40.56,Goiânia,2025-07-14,2025-07-19,2025-07-16,Entregue,5,"Chegou antes do prazo, excelente!"
+PED-1310,FedEx,26.96,Porto Alegre,2025-07-14,2025-07-22,2025-07-20,Entregue,5,"Entrega rápida, muito satisfeito!"
+PED-1311,Loggi,76.3,Recife,2025-07-14,2025-07-20,2025-07-18,Entregue,4,Ótimo custo-benefício!
+PED-1312,Loggi,123.21,Brasília,2025-07-14,2025-07-21,2025-07-16,Entregue,4,"Produto de qualidade, entrega pontual."
+PED-1313,Correios,20.63,Rio de Janeiro,2025-07-16,2025-07-26,2025-07-26,Entregue,4,"Chegou antes do prazo, excelente!"
+PED-1314,FedEx,28.29,Belém,2025-07-17,2025-07-25,2025-07-21,Entregue,5,"Muito bom, sem reclamações."
+PED-1315,FedEx,28.91,São Paulo,2025-07-16,2025-07-26,2025-07-18,Entregue,5,Excelente atendimento e entrega.
+PED-1316,Correios,15.03,Fortaleza,2025-07-17,2025-07-26,2025-07-30,Entregue,2,"Embalagem danificada, produto riscado."
+PED-1317,Jadlog,50.07,Rio de Janeiro,2025-07-17,2025-07-25,,Em Trânsito,2,Nunca mais compro aqui.
+PED-1318,Loggi,37.09,Belo Horizonte,2025-07-18,2025-07-24,2025-07-29,Entregue,1,"Produto extraviado, tive que abrir reclamação."
+PED-1319,Loggi,50.27,Florianópolis,2025-07-19,2025-07-25,2025-07-21,Entregue,4,Parabéns pela agilidade!
+PED-1320,Jadlog,15.36,Joinville,2025-07-18,2025-07-23,2025-07-22,Entregue,5,"Entrega rápida, muito satisfeito!"
+PED-1321,Loggi,110.92,Joinville,2025-07-19,2025-07-28,2025-07-27,Entregue,5,"Chegou antes do prazo, excelente!"
+PED-1322,Loggi,54.75,Porto Alegre,2025-07-21,2025-07-29,,Cancelado,1,"Não recomendo, péssima experiência."
+PED-1323,FedEx,18.75,Brasília,2025-07-21,2025-07-27,2025-07-24,Entregue,5,"Qualidade impecável, voltarei a comprar."
+PED-1324,Correios,34.99,São Paulo,2025-07-21,2025-07-28,2025-07-23,Entregue,5,Parabéns pela agilidade!
+PED-1325,Correios,58.31,Salvador,2025-07-22,2025-07-30,,Cancelado,3,"Produto bom, mas o frete foi caro."
+PED-1326,Correios,105.87,São Paulo,2025-07-21,2025-07-31,,Cancelado,1,Pior experiência de compra online.
+PED-1327,Loggi,28.98,Rio de Janeiro,2025-07-22,2025-07-30,2025-07-29,Entregue,5,"Produto top, recomendo!"
+PED-1328,Jadlog,62.12,Curitiba,2025-07-22,2025-07-30,2025-07-24,Entregue,5,"Tudo certo, nota 10!"
+PED-1329,FedEx,79.93,Recife,2025-07-23,2025-07-30,2025-07-30,Entregue,5,"Embalagem perfeita, produto intacto."
+PED-1330,FedEx,111.9,Belém,2025-07-24,2025-08-03,2025-08-03,Entregue,5,"Entrega rápida, muito satisfeito!"
+PED-1331,Correios,41.46,Manaus,2025-07-24,2025-07-31,2025-07-28,Entregue,5,Excelente atendimento e entrega.
+PED-1332,Correios,25.08,Curitiba,2025-07-24,2025-08-01,2025-07-28,Entregue,4,"Qualidade impecável, voltarei a comprar."
+PED-1333,Correios,39.53,Belo Horizonte,2025-07-25,2025-07-30,,Em Trânsito,3,"Produto ok, mas a entrega atrasou um pouco."
+PED-1334,Correios,23.25,Campinas,2025-07-24,2025-07-31,2025-08-02,Entregue,3,Esperava mais pela qualidade do produto.
+PED-1335,Jadlog,136.35,Manaus,2025-07-24,2025-07-30,2025-07-29,Entregue,5,"Embalagem perfeita, produto intacto."
+PED-1336,Loggi,55.28,Rio de Janeiro,2025-07-25,2025-08-04,,Em Trânsito,2,"Veio errado, tive que devolver."
+PED-1337,FedEx,80.12,Curitiba,2025-07-25,2025-07-30,2025-07-28,Entregue,4,"Frete rápido, adorei!"
+PED-1338,Loggi,29.48,Belo Horizonte,2025-07-24,2025-07-30,,Em Trânsito,4,"Embalagem perfeita, produto intacto."
+PED-1339,Loggi,108.74,Belo Horizonte,2025-07-24,2025-07-31,2025-07-30,Entregue,4,"Frete rápido, adorei!"
+PED-1340,Correios,29.81,Rio de Janeiro,2025-07-25,2025-08-03,2025-08-03,Entregue,5,"Chegou antes do prazo, excelente!"
+PED-1341,Jadlog,46.59,Rio de Janeiro,2025-07-25,2025-07-31,2025-07-28,Entregue,5,Entrega no prazo e produto conforme descrito.
+PED-1342,Correios,124.23,Joinville,2025-07-26,2025-08-02,2025-07-28,Entregue,5,Ótimo custo-benefício!
+PED-1343,Correios,24.37,Curitiba,2025-07-26,2025-08-05,2025-08-01,Entregue,4,"Entrega rápida, muito satisfeito!"
+PED-1344,Loggi,116.37,Joinville,2025-07-26,2025-08-01,2025-07-31,Entregue,4,"Tudo certo, nota 10!"
+PED-1345,Correios,34.76,Campinas,2025-07-27,2025-08-05,2025-08-03,Entregue,5,"Qualidade impecável, voltarei a comprar."
+PED-1346,Correios,18.95,Belo Horizonte,2025-07-27,2025-08-01,2025-07-30,Entregue,4,"Frete rápido, adorei!"
+PED-1347,Loggi,21.41,Porto Alegre,2025-07-28,2025-08-07,,Extraviado,1,"Suporte ruim, difícil contato."
+PED-1348,Correios,20.83,Curitiba,2025-07-28,2025-08-03,2025-08-04,Entregue,2,Pior experiência de compra online.
+PED-1349,FedEx,56.3,Curitiba,2025-07-29,2025-08-08,2025-08-05,Entregue,5,"Entrega rápida, muito satisfeito!"
+PED-1350,FedEx,17.45,Curitiba,2025-07-28,2025-08-03,2025-07-30,Entregue,5,"Tudo certo, nota 10!"
+PED-1351,Loggi,55.59,São Paulo,2025-07-28,2025-08-06,2025-08-04,Entregue,4,"Produto original, vendedor confiável."
+PED-1352,Loggi,29.65,Rio de Janeiro,2025-07-28,2025-08-06,,Cancelado,3,"Produto ok, mas a entrega atrasou um pouco."
+PED-1353,Jadlog,18.47,Belo Horizonte,2025-07-29,2025-08-05,2025-08-05,Entregue,5,"Qualidade impecável, voltarei a comprar."
+PED-1354,Loggi,47.23,Florianópolis,2025-07-30,2025-08-04,2025-08-02,Entregue,4,"Embalagem perfeita, produto intacto."
+PED-1355,Correios,28.71,Curitiba,2025-07-31,2025-08-10,,Cancelado,3,"Razoável, poderia ser melhor."
+PED-1356,Jadlog,136.12,Belo Horizonte,2025-07-30,2025-08-09,2025-08-06,Entregue,5,"Produto original, vendedor confiável."
+PED-1357,FedEx,25.92,Rio de Janeiro,2025-07-31,2025-08-07,2025-08-06,Entregue,5,"Produto top, recomendo!"
+PED-1358,Correios,85.35,Florianópolis,2025-07-31,2025-08-07,2025-08-02,Entregue,5,"Muito bom, sem reclamações."
+PED-1359,Jadlog,126.57,Florianópolis,2025-08-01,2025-08-06,,Em Trânsito,4,"Produto original, vendedor confiável."
+PED-1360,FedEx,25.43,Joinville,2025-08-01,2025-08-08,,Em Trânsito,4,Excelente atendimento e entrega.
+PED-1361,Correios,23.51,Curitiba,2025-08-01,2025-08-06,,Em Trânsito,3,"Chegou com pequeno atraso, mas o produto é bom."
+PED-1362,FedEx,21.61,Joinville,2025-08-01,2025-08-07,2025-08-12,Entregue,1,Muito atraso na entrega.
+PED-1363,Jadlog,24.27,São Paulo,2025-07-31,2025-08-10,,Em Trânsito,3,"Produto bom, mas o frete foi caro."
+PED-1364,FedEx,24.69,Florianópolis,2025-08-01,2025-08-09,2025-08-04,Entregue,5,"Frete rápido, adorei!"
+PED-1365,Jadlog,94.63,São Paulo,2025-07-31,2025-08-08,,Cancelado,1,Pior experiência de compra online.
+PED-1366,Loggi,108.68,São Paulo,2025-08-02,2025-08-12,2025-08-12,Entregue,4,Ótimo custo-benefício!
+PED-1367,Correios,40.3,Belo Horizonte,2025-08-02,2025-08-08,,Em Trânsito,3,"Razoável, poderia ser melhor."
+PED-1368,FedEx,45.17,Belo Horizonte,2025-08-02,2025-08-08,,Extraviado,1,Atrasou e a caixa veio amassada.
+PED-1369,Correios,30.91,Joinville,2025-08-03,2025-08-10,,Extraviado,2,Nunca mais compro aqui.
+PED-1370,Loggi,23.7,Belém,2025-08-03,2025-08-08,2025-08-10,Entregue,3,Embalagem poderia ser melhor.
+PED-1371,Correios,21.22,São Paulo,2025-08-03,2025-08-08,,Cancelado,3,Entrega demorou mais que o previsto.
+PED-1372,Loggi,23.97,São Paulo,2025-08-04,2025-08-11,2025-08-16,Entregue,3,Esperava mais pela qualidade do produto.
+PED-1373,Loggi,39.65,Florianópolis,2025-08-05,2025-08-13,2025-08-10,Entregue,5,"Chegou antes do prazo, excelente!"
+PED-1374,Correios,55.62,Campinas,2025-08-04,2025-08-13,2025-08-17,Entregue,2,"Embalagem danificada, produto riscado."
+PED-1375,Correios,124.13,São Paulo,2025-08-06,2025-08-14,,Em Trânsito,3,"Nada de especial, cumpriu o básico."
+PED-1376,Jadlog,27.96,Campinas,2025-08-06,2025-08-12,2025-08-11,Entregue,4,"Produto original, vendedor confiável."
+PED-1377,Correios,24.04,Joinville,2025-08-07,2025-08-15,,Cancelado,1,"Não recomendo, péssima experiência."
+PED-1378,FedEx,28.3,Curitiba,2025-08-06,2025-08-14,2025-08-13,Entregue,5,Entrega no prazo e produto conforme descrito.
+PED-1379,Correios,66.23,Florianópolis,2025-08-08,2025-08-14,2025-08-10,Entregue,4,Excelente atendimento e entrega.
+PED-1380,Loggi,15.43,Curitiba,2025-08-09,2025-08-18,,Cancelado,2,Atendimento ao cliente inexistente.
+PED-1381,FedEx,45.45,São Paulo,2025-08-09,2025-08-14,2025-08-11,Entregue,5,Entrega no prazo e produto conforme descrito.
+PED-1382,Correios,53.38,Joinville,2025-08-08,2025-08-14,,Em Trânsito,2,Produto não era o que esperava.
+PED-1383,Correios,32.84,Florianópolis,2025-08-10,2025-08-20,2025-08-19,Entregue,5,"Entrega rápida, muito satisfeito!"
+PED-1384,FedEx,120.47,Campinas,2025-08-09,2025-08-18,2025-08-17,Entregue,5,Excelente atendimento e entrega.
+PED-1385,FedEx,19.82,Joinville,2025-08-10,2025-08-18,2025-08-17,Entregue,5,Superou minhas expectativas!
+PED-1386,Loggi,91.93,Joinville,2025-08-10,2025-08-18,2025-08-16,Entregue,5,"Embalagem perfeita, produto intacto."
+PED-1387,FedEx,68.55,Belo Horizonte,2025-08-09,2025-08-17,2025-08-16,Entregue,4,Excelente atendimento e entrega.
+PED-1388,Correios,69.56,Florianópolis,2025-08-11,2025-08-19,,Em Trânsito,4,"Produto de qualidade, entrega pontual."
+PED-1389,FedEx,53.15,Florianópolis,2025-08-11,2025-08-17,2025-08-16,Entregue,5,Ótimo custo-benefício!
+PED-1390,Correios,40.88,Brasília,2025-08-10,2025-08-16,2025-08-21,Entregue,1,Atrasou e a caixa veio amassada.
+PED-1391,Correios,17.15,São Paulo,2025-08-11,2025-08-19,,Em Trânsito,3,Entrega demorou mais que o previsto.
+PED-1392,Loggi,121.96,Brasília,2025-08-12,2025-08-20,2025-08-19,Entregue,5,"Embalagem perfeita, produto intacto."
+PED-1393,Jadlog,39.08,Goiânia,2025-08-11,2025-08-16,2025-08-14,Entregue,4,"Produto top, recomendo!"
+PED-1394,Loggi,57.85,Belo Horizonte,2025-08-12,2025-08-22,2025-08-17,Entregue,4,"Qualidade impecável, voltarei a comprar."
+PED-1395,Jadlog,111.12,Curitiba,2025-08-11,2025-08-21,2025-08-20,Entregue,5,"Qualidade impecável, voltarei a comprar."
+PED-1396,Correios,84.2,São Paulo,2025-08-12,2025-08-18,2025-08-18,Entregue,4,"Produto top, recomendo!"
+PED-1397,Loggi,135.15,São Paulo,2025-08-13,2025-08-20,2025-08-19,Entregue,4,"Embalagem perfeita, produto intacto."
+PED-1398,Loggi,75.82,Brasília,2025-08-13,2025-08-18,,Em Trânsito,4,Superou minhas expectativas!
+PED-1399,Jadlog,88.14,Curitiba,2025-08-13,2025-08-20,2025-08-17,Entregue,4,Parabéns pela agilidade!
+PED-1400,Jadlog,24.35,São Paulo,2025-08-13,2025-08-19,,Cancelado,3,"Razoável, poderia ser melhor."
+PED-1401,Correios,19.06,Campinas,2025-08-13,2025-08-20,2025-08-17,Entregue,5,Excelente atendimento e entrega.
+PED-1402,Correios,49.65,Joinville,2025-08-12,2025-08-18,2025-08-14,Entregue,4,"Qualidade impecável, voltarei a comprar."
+PED-1403,Jadlog,31.38,Campinas,2025-08-13,2025-08-18,,Em Trânsito,4,"Frete rápido, adorei!"
+PED-1404,Correios,65.26,São Paulo,2025-08-13,2025-08-23,2025-08-17,Entregue,5,"Produto de qualidade, entrega pontual."
+PED-1405,Loggi,33.44,São Paulo,2025-08-14,2025-08-23,2025-08-17,Entregue,5,"Embalagem perfeita, produto intacto."
+PED-1406,FedEx,88.0,Rio de Janeiro,2025-08-13,2025-08-23,,Cancelado,2,"Suporte ruim, difícil contato."
+PED-1407,FedEx,21.14,São Paulo,2025-08-13,2025-08-18,2025-08-18,Entregue,5,Excelente atendimento e entrega.
+PED-1408,Loggi,57.25,Manaus,2025-08-13,2025-08-23,2025-08-16,Entregue,5,Entrega no prazo e produto conforme descrito.
+PED-1409,Jadlog,90.66,Belo Horizonte,2025-08-13,2025-08-18,2025-08-17,Entregue,4,Ótimo custo-benefício!
+PED-1410,Correios,115.53,Belo Horizonte,2025-08-13,2025-08-20,2025-08-21,Entregue,3,"Produto ok, mas a entrega atrasou um pouco."
+PED-1411,Jadlog,83.0,Porto Alegre,2025-08-15,2025-08-20,2025-08-17,Entregue,5,"Entrega rápida, muito satisfeito!"
+PED-1412,Correios,48.1,Rio de Janeiro,2025-08-14,2025-08-19,2025-08-18,Entregue,4,Entrega no prazo e produto conforme descrito.
+PED-1413,Loggi,59.25,Belo Horizonte,2025-08-15,2025-08-23,2025-08-23,Entregue,4,"Produto original, vendedor confiável."
+PED-1414,Jadlog,29.7,Belo Horizonte,2025-08-16,2025-08-23,2025-08-19,Entregue,4,"Produto original, vendedor confiável."
+PED-1415,Correios,21.76,Joinville,2025-08-18,2025-08-26,,Extraviado,1,Nunca mais compro aqui.
+PED-1416,Loggi,46.45,São Paulo,2025-08-17,2025-08-25,2025-08-29,Entregue,1,Decepcionante do início ao fim.
+PED-1417,FedEx,116.83,Fortaleza,2025-08-19,2025-08-29,2025-08-27,Entregue,5,"Entrega rápida, muito satisfeito!"
+PED-1418,Loggi,29.82,São Paulo,2025-08-18,2025-08-27,2025-08-20,Entregue,5,Entrega no prazo e produto conforme descrito.
+PED-1419,Jadlog,111.16,Joinville,2025-08-20,2025-08-26,,Cancelado,1,"Veio errado, tive que devolver."
+PED-1420,Jadlog,133.19,Florianópolis,2025-08-19,2025-08-26,,Em Trânsito,4,"Embalagem perfeita, produto intacto."
+PED-1421,FedEx,16.8,Rio de Janeiro,2025-08-19,2025-08-29,2025-08-27,Entregue,5,"Entrega rápida, muito satisfeito!"
+PED-1422,FedEx,21.67,Rio de Janeiro,2025-08-19,2025-08-26,2025-08-25,Entregue,4,Superou minhas expectativas!
+PED-1423,Loggi,29.84,Belo Horizonte,2025-08-19,2025-08-29,2025-08-22,Entregue,4,Ótimo custo-benefício!
+PED-1424,Jadlog,113.54,Fortaleza,2025-08-19,2025-08-28,2025-08-26,Entregue,4,"Produto original, vendedor confiável."
+PED-1425,Loggi,29.73,São Paulo,2025-08-21,2025-08-26,2025-08-26,Entregue,4,"Muito bom, sem reclamações."
+PED-1426,Loggi,74.22,Porto Alegre,2025-08-20,2025-08-29,2025-08-25,Entregue,5,"Qualidade impecável, voltarei a comprar."
+PED-1427,Correios,28.37,Goiânia,2025-08-20,2025-08-26,2025-08-23,Entregue,4,"Muito bom, sem reclamações."
+PED-1428,Loggi,134.57,Joinville,2025-08-21,2025-08-30,2025-09-03,Entregue,3,Embalagem poderia ser melhor.
+PED-1429,Loggi,26.63,Joinville,2025-08-22,2025-08-30,2025-08-25,Entregue,5,"Chegou antes do prazo, excelente!"
+PED-1430,Correios,20.15,São Paulo,2025-08-22,2025-08-27,2025-08-25,Entregue,5,"Chegou antes do prazo, excelente!"
+PED-1431,FedEx,55.8,São Paulo,2025-08-23,2025-08-30,2025-08-29,Entregue,5,"Produto original, vendedor confiável."
+PED-1432,Correios,33.54,Belo Horizonte,2025-08-24,2025-09-03,2025-09-03,Entregue,5,"Produto original, vendedor confiável."
+PED-1433,Loggi,105.51,Belo Horizonte,2025-08-24,2025-09-02,,Em Trânsito,2,Frete caro e entrega lenta.
+PED-1434,Jadlog,15.54,Brasília,2025-08-24,2025-09-01,2025-08-30,Entregue,4,"Qualidade impecável, voltarei a comprar."
+PED-1435,Correios,142.77,Florianópolis,2025-08-24,2025-09-02,,Extraviado,2,"Produto extraviado, tive que abrir reclamação."
+PED-1436,Correios,93.56,Porto Alegre,2025-08-25,2025-09-03,2025-09-02,Entregue,4,"Muito bom, sem reclamações."
+PED-1437,Jadlog,57.98,Rio de Janeiro,2025-08-25,2025-09-04,2025-09-02,Entregue,4,"Embalagem perfeita, produto intacto."
+PED-1438,Jadlog,83.16,Curitiba,2025-08-24,2025-09-02,2025-08-26,Entregue,5,"Embalagem perfeita, produto intacto."
+PED-1439,Loggi,128.34,Fortaleza,2025-08-24,2025-09-01,2025-08-28,Entregue,4,"Embalagem perfeita, produto intacto."
+PED-1440,Loggi,59.79,São Paulo,2025-08-24,2025-09-02,2025-08-31,Entregue,4,Parabéns pela agilidade!
+PED-1441,Loggi,85.54,São Paulo,2025-08-25,2025-09-01,2025-09-06,Entregue,1,Atrasou e a caixa veio amassada.
+PED-1442,Jadlog,19.27,Joinville,2025-08-26,2025-09-01,2025-08-29,Entregue,5,Entrega no prazo e produto conforme descrito.
+PED-1443,Loggi,138.77,Florianópolis,2025-08-26,2025-09-01,2025-08-30,Entregue,5,Superou minhas expectativas!
+PED-1444,Jadlog,19.86,São Paulo,2025-08-25,2025-08-30,,Cancelado,3,"Produto bom, mas o frete foi caro."
+PED-1445,Jadlog,50.65,Recife,2025-08-26,2025-09-05,2025-09-08,Entregue,3,"Nada de especial, cumpriu o básico."
+PED-1446,Jadlog,28.02,Fortaleza,2025-08-27,2025-09-01,2025-08-29,Entregue,4,"Produto de qualidade, entrega pontual."
+PED-1447,Jadlog,57.19,Porto Alegre,2025-08-26,2025-09-01,2025-08-28,Entregue,4,"Qualidade impecável, voltarei a comprar."
+PED-1448,Jadlog,66.67,Joinville,2025-08-28,2025-09-07,2025-09-08,Entregue,2,"Não recomendo, péssima experiência."
+PED-1449,FedEx,51.63,Florianópolis,2025-08-28,2025-09-04,2025-08-31,Entregue,5,"Tudo certo, nota 10!"
+PED-1450,Correios,17.56,São Paulo,2025-08-28,2025-09-05,2025-09-10,Entregue,3,"Razoável, poderia ser melhor."
+PED-1451,FedEx,45.98,Rio de Janeiro,2025-08-28,2025-09-07,2025-09-05,Entregue,5,"Muito bom, sem reclamações."
+PED-1452,Loggi,109.4,Joinville,2025-08-28,2025-09-06,2025-09-01,Entregue,5,"Produto de qualidade, entrega pontual."
+PED-1453,Correios,29.12,Joinville,2025-08-29,2025-09-05,2025-08-31,Entregue,4,"Embalagem perfeita, produto intacto."
+PED-1454,Loggi,16.95,Joinville,2025-08-30,2025-09-06,2025-09-07,Entregue,3,"Razoável, poderia ser melhor."
+PED-1455,Loggi,43.76,Joinville,2025-08-29,2025-09-08,,Em Trânsito,4,"Chegou antes do prazo, excelente!"
+PED-1456,Jadlog,34.17,Porto Alegre,2025-08-29,2025-09-03,2025-08-31,Entregue,4,Entrega no prazo e produto conforme descrito.
+PED-1457,Jadlog,143.15,Manaus,2025-08-29,2025-09-06,2025-09-08,Entregue,3,"Nada de especial, cumpriu o básico."
+PED-1458,FedEx,107.29,São Paulo,2025-08-30,2025-09-04,2025-09-03,Entregue,5,Excelente atendimento e entrega.
+PED-1459,FedEx,30.85,Curitiba,2025-08-31,2025-09-05,2025-09-09,Entregue,2,"Produto extraviado, tive que abrir reclamação."
+PED-1460,Loggi,50.67,São Paulo,2025-08-31,2025-09-10,2025-09-08,Entregue,5,"Produto original, vendedor confiável."
+PED-1461,Correios,24.29,São Paulo,2025-08-31,2025-09-07,2025-09-02,Entregue,5,Entrega no prazo e produto conforme descrito.
+PED-1462,Loggi,78.36,Porto Alegre,2025-08-31,2025-09-07,2025-09-04,Entregue,5,"Tudo certo, nota 10!"
+PED-1463,Loggi,17.32,Curitiba,2025-09-01,2025-09-06,2025-09-06,Entregue,5,Superou minhas expectativas!
+PED-1464,Correios,100.84,São Paulo,2025-09-01,2025-09-11,2025-09-10,Entregue,5,"Produto original, vendedor confiável."
+PED-1465,FedEx,28.53,Porto Alegre,2025-09-01,2025-09-09,2025-09-09,Entregue,5,Ótimo custo-benefício!
+PED-1466,Loggi,92.97,Belém,2025-09-02,2025-09-10,2025-09-05,Entregue,4,"Tudo certo, nota 10!"
+PED-1467,Loggi,28.82,Rio de Janeiro,2025-09-02,2025-09-07,2025-09-05,Entregue,5,Superou minhas expectativas!
+PED-1468,Loggi,59.18,Belo Horizonte,2025-09-04,2025-09-09,2025-09-09,Entregue,4,"Chegou antes do prazo, excelente!"
+PED-1469,FedEx,19.25,São Paulo,2025-09-03,2025-09-10,2025-09-05,Entregue,5,Superou minhas expectativas!
+PED-1470,Correios,20.07,Recife,2025-09-03,2025-09-11,,Cancelado,1,Pior experiência de compra online.
+PED-1471,FedEx,107.47,Campinas,2025-09-04,2025-09-14,2025-09-06,Entregue,4,"Produto top, recomendo!"
+PED-1472,FedEx,20.76,Campinas,2025-09-05,2025-09-15,,Em Trânsito,3,Esperava mais pela qualidade do produto.
+PED-1473,Correios,86.84,Belo Horizonte,2025-09-04,2025-09-12,2025-09-10,Entregue,5,Excelente atendimento e entrega.
+PED-1474,Jadlog,146.89,Joinville,2025-09-04,2025-09-11,,Cancelado,2,Atrasou e a caixa veio amassada.
+PED-1475,Jadlog,27.66,Salvador,2025-09-05,2025-09-14,2025-09-14,Entregue,4,"Entrega rápida, muito satisfeito!"
+PED-1476,FedEx,18.69,Belo Horizonte,2025-09-04,2025-09-11,2025-09-11,Entregue,4,"Chegou antes do prazo, excelente!"
+PED-1477,Loggi,50.62,Recife,2025-09-06,2025-09-11,2025-09-13,Entregue,2,"Veio errado, tive que devolver."
+PED-1478,Loggi,19.56,Brasília,2025-09-06,2025-09-13,2025-09-12,Entregue,4,"Qualidade impecável, voltarei a comprar."
+PED-1479,Jadlog,58.59,Campinas,2025-09-05,2025-09-12,2025-09-08,Entregue,4,Superou minhas expectativas!
+PED-1480,Correios,20.26,Belo Horizonte,2025-09-06,2025-09-12,2025-09-11,Entregue,4,"Chegou antes do prazo, excelente!"
+PED-1481,Jadlog,46.36,Brasília,2025-09-07,2025-09-14,2025-09-11,Entregue,5,"Chegou antes do prazo, excelente!"
+PED-1482,Jadlog,136.66,São Paulo,2025-09-07,2025-09-14,,Em Trânsito,2,Atendimento ao cliente inexistente.
+PED-1483,Jadlog,30.47,Recife,2025-09-07,2025-09-17,2025-09-17,Entregue,4,Parabéns pela agilidade!
+PED-1484,Loggi,17.38,Porto Alegre,2025-09-08,2025-09-13,2025-09-10,Entregue,4,"Tudo certo, nota 10!"
+PED-1485,Correios,41.76,São Paulo,2025-09-08,2025-09-16,2025-09-13,Entregue,4,"Tudo certo, nota 10!"
+PED-1486,Jadlog,29.43,Curitiba,2025-09-10,2025-09-15,2025-09-14,Entregue,5,"Produto top, recomendo!"
+PED-1487,Jadlog,47.56,Rio de Janeiro,2025-09-10,2025-09-17,2025-09-15,Entregue,4,Superou minhas expectativas!
+PED-1488,Correios,120.79,Belo Horizonte,2025-09-10,2025-09-20,,Em Trânsito,3,"Razoável, poderia ser melhor."
+PED-1489,Jadlog,40.69,Joinville,2025-09-11,2025-09-21,2025-09-19,Entregue,4,Superou minhas expectativas!
+PED-1490,Loggi,27.96,Joinville,2025-09-10,2025-09-17,,Em Trânsito,2,Atrasou e a caixa veio amassada.
+PED-1491,Jadlog,29.79,Joinville,2025-09-10,2025-09-17,2025-09-15,Entregue,4,"Produto top, recomendo!"
+PED-1492,Correios,19.39,Curitiba,2025-09-10,2025-09-20,2025-09-18,Entregue,5,Superou minhas expectativas!
+PED-1493,Jadlog,107.69,Fortaleza,2025-09-12,2025-09-22,,Em Trânsito,3,Entrega demorou mais que o previsto.
+PED-1494,Loggi,134.87,Curitiba,2025-09-11,2025-09-17,2025-09-17,Entregue,4,Parabéns pela agilidade!
+PED-1495,Jadlog,40.28,Curitiba,2025-09-12,2025-09-20,,Cancelado,1,"Suporte ruim, difícil contato."
+PED-1496,Correios,47.93,Curitiba,2025-09-12,2025-09-22,2025-09-14,Entregue,4,Superou minhas expectativas!
+PED-1497,Jadlog,35.16,São Paulo,2025-09-12,2025-09-18,2025-09-19,Entregue,2,Atendimento ao cliente inexistente.
+PED-1498,Loggi,57.36,Curitiba,2025-09-12,2025-09-18,,Em Trânsito,4,Superou minhas expectativas!
+PED-1499,Jadlog,106.24,São Paulo,2025-09-14,2025-09-20,,Em Trânsito,2,Atendimento ao cliente inexistente.
+PED-1500,Loggi,119.54,Porto Alegre,2025-09-14,2025-09-20,2025-09-20,Entregue,5,"Tudo certo, nota 10!"
+PED-1501,Loggi,49.3,São Paulo,2025-09-14,2025-09-22,2025-09-17,Entregue,5,"Tudo certo, nota 10!"
+PED-1502,Loggi,18.5,Belo Horizonte,2025-09-14,2025-09-24,2025-09-20,Entregue,5,Parabéns pela agilidade!
+PED-1503,Loggi,118.41,Campinas,2025-09-15,2025-09-25,,Cancelado,1,"Embalagem danificada, produto riscado."
+PED-1504,Loggi,121.76,Salvador,2025-09-14,2025-09-23,2025-09-18,Entregue,4,"Produto top, recomendo!"
+PED-1505,Loggi,22.33,São Paulo,2025-09-14,2025-09-23,2025-09-22,Entregue,4,"Produto de qualidade, entrega pontual."
+PED-1506,Loggi,82.97,Goiânia,2025-09-16,2025-09-21,2025-09-20,Entregue,5,"Chegou antes do prazo, excelente!"
+PED-1507,Loggi,76.87,Curitiba,2025-09-16,2025-09-26,,Cancelado,3,"Chegou com pequeno atraso, mas o produto é bom."
+PED-1508,Correios,49.2,São Paulo,2025-09-16,2025-09-24,2025-09-19,Entregue,4,Excelente atendimento e entrega.
+PED-1509,FedEx,57.91,Belo Horizonte,2025-09-17,2025-09-25,2025-09-21,Entregue,5,Superou minhas expectativas!
+PED-1510,Jadlog,123.2,Curitiba,2025-09-17,2025-09-23,2025-09-21,Entregue,5,"Muito bom, sem reclamações."
+PED-1511,Loggi,25.91,Belo Horizonte,2025-09-17,2025-09-26,2025-09-26,Entregue,5,"Produto top, recomendo!"
+PED-1512,Loggi,27.34,Belém,2025-09-17,2025-09-24,2025-09-24,Entregue,4,"Qualidade impecável, voltarei a comprar."
+PED-1513,Correios,19.19,Florianópolis,2025-09-16,2025-09-22,2025-09-19,Entregue,5,"Produto top, recomendo!"
+PED-1514,Correios,30.22,Porto Alegre,2025-09-17,2025-09-22,2025-09-21,Entregue,4,"Frete rápido, adorei!"
+PED-1515,Loggi,44.26,Recife,2025-09-18,2025-09-23,2025-09-21,Entregue,5,"Produto de qualidade, entrega pontual."
+PED-1516,Correios,15.9,Fortaleza,2025-09-17,2025-09-26,2025-09-21,Entregue,5,Entrega no prazo e produto conforme descrito.
+PED-1517,Jadlog,121.41,Belém,2025-09-17,2025-09-27,2025-09-23,Entregue,5,Ótimo custo-benefício!
+PED-1518,Correios,146.8,Belo Horizonte,2025-09-17,2025-09-27,,Em Trânsito,3,"Produto ok, mas a entrega atrasou um pouco."
+PED-1519,FedEx,26.31,São Paulo,2025-09-17,2025-09-24,2025-09-21,Entregue,5,"Qualidade impecável, voltarei a comprar."
+PED-1520,FedEx,91.58,Florianópolis,2025-09-18,2025-09-24,2025-09-24,Entregue,4,"Tudo certo, nota 10!"
+PED-1521,Correios,76.32,Curitiba,2025-09-17,2025-09-26,2025-09-26,Entregue,5,Excelente atendimento e entrega.
+PED-1522,Correios,29.87,São Paulo,2025-09-18,2025-09-25,,Extraviado,3,Entrega demorou mais que o previsto.
+PED-1523,Jadlog,54.78,São Paulo,2025-09-17,2025-09-26,2025-09-29,Entregue,2,Produto chegou com defeito.
+PED-1524,Loggi,48.3,Belo Horizonte,2025-09-18,2025-09-26,2025-09-24,Entregue,4,Parabéns pela agilidade!
+PED-1525,Jadlog,54.31,Salvador,2025-09-18,2025-09-28,,Extraviado,3,Embalagem poderia ser melhor.
+PED-1526,Loggi,17.43,Rio de Janeiro,2025-09-18,2025-09-24,2025-09-21,Entregue,5,"Chegou antes do prazo, excelente!"
+PED-1527,FedEx,138.94,Porto Alegre,2025-09-19,2025-09-26,,Em Trânsito,2,Nunca mais compro aqui.
+PED-1528,Correios,149.43,São Paulo,2025-09-20,2025-09-30,2025-09-30,Entregue,4,"Chegou antes do prazo, excelente!"
+PED-1529,Correios,134.41,Joinville,2025-09-21,2025-09-27,2025-09-25,Entregue,4,Parabéns pela agilidade!
+PED-1530,Correios,65.51,Joinville,2025-09-23,2025-09-28,2025-10-03,Entregue,3,"Nada de especial, cumpriu o básico."
+PED-1531,Loggi,63.26,Belo Horizonte,2025-09-22,2025-09-27,2025-09-27,Entregue,4,"Produto top, recomendo!"
+PED-1532,FedEx,29.88,Brasília,2025-09-22,2025-09-27,2025-09-26,Entregue,4,"Muito bom, sem reclamações."
+PED-1533,Loggi,51.27,São Paulo,2025-09-23,2025-09-30,,Em Trânsito,2,"Produto extraviado, tive que abrir reclamação."
+PED-1534,Correios,46.07,Curitiba,2025-09-23,2025-09-28,2025-09-25,Entregue,4,Excelente atendimento e entrega.
+PED-1535,Correios,136.62,Brasília,2025-09-25,2025-10-05,2025-10-05,Entregue,4,"Muito bom, sem reclamações."
+PED-1536,Loggi,18.81,Curitiba,2025-09-25,2025-10-04,2025-09-30,Entregue,4,"Frete rápido, adorei!"
+PED-1537,Correios,20.14,Curitiba,2025-09-26,2025-10-01,2025-10-04,Entregue,2,Atrasou e a caixa veio amassada.
+PED-1538,FedEx,77.98,São Paulo,2025-09-27,2025-10-07,2025-10-05,Entregue,5,Superou minhas expectativas!
+PED-1539,Correios,19.84,Rio de Janeiro,2025-09-26,2025-10-04,2025-10-02,Entregue,5,"Entrega rápida, muito satisfeito!"
+PED-1540,Jadlog,17.87,Goiânia,2025-09-27,2025-10-02,2025-10-07,Entregue,2,"Produto extraviado, tive que abrir reclamação."
+PED-1541,Jadlog,75.17,Rio de Janeiro,2025-09-28,2025-10-04,2025-10-03,Entregue,5,"Produto top, recomendo!"
+PED-1542,Jadlog,16.46,Joinville,2025-09-29,2025-10-05,2025-10-04,Entregue,4,"Produto original, vendedor confiável."
+PED-1543,Jadlog,23.75,Curitiba,2025-09-28,2025-10-07,2025-10-01,Entregue,4,"Embalagem perfeita, produto intacto."
+PED-1544,FedEx,49.03,Salvador,2025-09-30,2025-10-10,,Cancelado,1,Atendimento ao cliente inexistente.
+PED-1545,Correios,58.09,Rio de Janeiro,2025-09-30,2025-10-08,2025-10-13,Entregue,2,"Suporte ruim, difícil contato."
+PED-1546,Correios,28.42,São Paulo,2025-10-01,2025-10-10,,Extraviado,1,Pior experiência de compra online.
+PED-1547,Loggi,34.48,São Paulo,2025-10-01,2025-10-06,2025-10-08,Entregue,3,Embalagem poderia ser melhor.
+PED-1548,Loggi,142.81,São Paulo,2025-10-01,2025-10-09,2025-10-03,Entregue,4,"Produto de qualidade, entrega pontual."
+PED-1549,Loggi,122.43,Rio de Janeiro,2025-10-02,2025-10-10,,Em Trânsito,2,Produto não era o que esperava.
+PED-1550,Jadlog,132.52,São Paulo,2025-10-03,2025-10-09,,Extraviado,2,"Não recomendo, péssima experiência."
+PED-1551,Jadlog,21.28,Joinville,2025-10-02,2025-10-11,2025-10-06,Entregue,5,Superou minhas expectativas!
+PED-1552,Correios,78.09,Porto Alegre,2025-10-02,2025-10-10,2025-10-04,Entregue,5,Parabéns pela agilidade!
+PED-1553,Loggi,113.47,Porto Alegre,2025-10-03,2025-10-12,2025-10-12,Entregue,5,"Produto original, vendedor confiável."
+PED-1554,Jadlog,59.05,Recife,2025-10-02,2025-10-12,2025-10-09,Entregue,4,Entrega no prazo e produto conforme descrito.
+PED-1555,FedEx,35.83,Porto Alegre,2025-10-04,2025-10-13,2025-10-07,Entregue,4,"Tudo certo, nota 10!"
+PED-1556,Loggi,28.54,Joinville,2025-10-05,2025-10-15,2025-10-13,Entregue,4,Entrega no prazo e produto conforme descrito.
+PED-1557,Correios,115.87,Curitiba,2025-10-04,2025-10-10,2025-10-07,Entregue,5,"Tudo certo, nota 10!"
+PED-1558,Loggi,17.23,São Paulo,2025-10-05,2025-10-11,2025-10-09,Entregue,5,"Entrega rápida, muito satisfeito!"
+PED-1559,Correios,28.15,Curitiba,2025-10-05,2025-10-11,2025-10-10,Entregue,5,"Qualidade impecável, voltarei a comprar."
+PED-1560,FedEx,15.3,Rio de Janeiro,2025-10-07,2025-10-13,2025-10-10,Entregue,5,"Qualidade impecável, voltarei a comprar."
+PED-1561,Loggi,16.98,Porto Alegre,2025-10-07,2025-10-14,2025-10-17,Entregue,2,Atrasou e a caixa veio amassada.
+PED-1562,Jadlog,19.47,Joinville,2025-10-07,2025-10-17,2025-10-13,Entregue,5,Excelente atendimento e entrega.
+PED-1563,Correios,21.52,São Paulo,2025-10-08,2025-10-15,2025-10-13,Entregue,4,"Tudo certo, nota 10!"
+PED-1564,Loggi,28.54,Joinville,2025-10-07,2025-10-15,2025-10-13,Entregue,5,"Chegou antes do prazo, excelente!"
+PED-1565,Correios,27.88,Florianópolis,2025-10-08,2025-10-17,,Extraviado,2,"Produto extraviado, tive que abrir reclamação."
+PED-1566,Jadlog,35.35,São Paulo,2025-10-08,2025-10-14,2025-10-11,Entregue,4,Parabéns pela agilidade!
+PED-1567,FedEx,140.55,Rio de Janeiro,2025-10-08,2025-10-18,2025-10-15,Entregue,4,"Entrega rápida, muito satisfeito!"
+PED-1568,Jadlog,27.59,São Paulo,2025-10-10,2025-10-15,2025-10-14,Entregue,4,Excelente atendimento e entrega.
+PED-1569,FedEx,27.85,Manaus,2025-10-09,2025-10-15,2025-10-12,Entregue,4,Superou minhas expectativas!
+PED-1570,Correios,57.72,Brasília,2025-10-10,2025-10-15,2025-10-13,Entregue,5,"Frete rápido, adorei!"
+PED-1571,Correios,20.12,Recife,2025-10-10,2025-10-15,2025-10-12,Entregue,5,"Produto original, vendedor confiável."
+PED-1572,Jadlog,28.03,São Paulo,2025-10-11,2025-10-19,2025-10-18,Entregue,4,"Tudo certo, nota 10!"
+PED-1573,Correios,28.49,Brasília,2025-10-11,2025-10-16,2025-10-19,Entregue,1,"Não recomendo, péssima experiência."
+PED-1574,Jadlog,93.28,Porto Alegre,2025-10-13,2025-10-22,,Cancelado,1,"Produto extraviado, tive que abrir reclamação."
+PED-1575,Jadlog,53.1,Belo Horizonte,2025-10-13,2025-10-23,2025-10-19,Entregue,5,Excelente atendimento e entrega.
+PED-1576,Jadlog,73.0,Curitiba,2025-10-14,2025-10-23,2025-10-17,Entregue,5,"Frete rápido, adorei!"
+PED-1577,Loggi,73.68,Manaus,2025-10-13,2025-10-18,2025-10-19,Entregue,1,Decepcionante do início ao fim.
+PED-1578,Loggi,24.36,São Paulo,2025-10-14,2025-10-22,2025-10-18,Entregue,4,Excelente atendimento e entrega.
+PED-1579,FedEx,29.58,Goiânia,2025-10-15,2025-10-22,2025-10-19,Entregue,4,"Chegou antes do prazo, excelente!"
+PED-1580,Loggi,43.94,São Paulo,2025-10-16,2025-10-23,2025-10-19,Entregue,5,Ótimo custo-benefício!
+PED-1581,Loggi,53.77,São Paulo,2025-10-16,2025-10-25,2025-10-18,Entregue,4,"Qualidade impecável, voltarei a comprar."
+PED-1582,Correios,75.07,São Paulo,2025-10-15,2025-10-21,2025-10-20,Entregue,5,"Muito bom, sem reclamações."
+PED-1583,Correios,130.13,Belo Horizonte,2025-10-16,2025-10-26,,Em Trânsito,2,"Veio errado, tive que devolver."
+PED-1584,Jadlog,18.58,Curitiba,2025-10-15,2025-10-24,2025-10-25,Entregue,1,"Veio errado, tive que devolver."
+PED-1585,Loggi,25.84,São Paulo,2025-10-16,2025-10-24,2025-10-21,Entregue,4,"Frete rápido, adorei!"
+PED-1586,Jadlog,28.73,Campinas,2025-10-16,2025-10-23,2025-10-21,Entregue,4,"Chegou antes do prazo, excelente!"
+PED-1587,Correios,21.56,São Paulo,2025-10-16,2025-10-24,2025-10-28,Entregue,2,Cancelei porque demorou demais.
+PED-1588,Jadlog,19.94,Rio de Janeiro,2025-10-16,2025-10-24,2025-10-20,Entregue,5,Parabéns pela agilidade!
+PED-1589,Loggi,144.53,São Paulo,2025-10-16,2025-10-24,2025-10-22,Entregue,4,"Produto original, vendedor confiável."
+PED-1590,Loggi,51.25,Manaus,2025-10-17,2025-10-23,2025-10-21,Entregue,4,"Chegou antes do prazo, excelente!"
+PED-1591,Loggi,15.43,São Paulo,2025-10-18,2025-10-25,,Cancelado,2,"Não recomendo, péssima experiência."
+PED-1592,FedEx,27.69,Joinville,2025-10-19,2025-10-28,2025-10-25,Entregue,5,Parabéns pela agilidade!
+PED-1593,FedEx,80.05,São Paulo,2025-10-19,2025-10-26,2025-10-22,Entregue,4,Entrega no prazo e produto conforme descrito.
+PED-1594,FedEx,50.44,Curitiba,2025-10-19,2025-10-28,2025-10-22,Entregue,4,"Chegou antes do prazo, excelente!"
+PED-1595,Jadlog,130.49,Campinas,2025-10-21,2025-10-28,2025-10-24,Entregue,5,"Produto top, recomendo!"
+PED-1596,FedEx,71.25,Salvador,2025-10-21,2025-10-28,2025-10-26,Entregue,5,"Tudo certo, nota 10!"
+PED-1597,Correios,21.49,Rio de Janeiro,2025-10-22,2025-10-29,,Em Trânsito,4,"Tudo certo, nota 10!"
+PED-1598,Jadlog,118.06,Rio de Janeiro,2025-10-22,2025-10-29,2025-10-28,Entregue,4,Ótimo custo-benefício!
+PED-1599,Correios,21.87,Brasília,2025-10-22,2025-10-29,2025-10-28,Entregue,5,"Muito bom, sem reclamações."
+PED-1600,Correios,32.72,São Paulo,2025-10-23,2025-11-02,2025-11-04,Entregue,2,Muito atraso na entrega.
+PED-1601,Jadlog,104.5,Joinville,2025-10-23,2025-10-31,2025-10-29,Entregue,5,Excelente atendimento e entrega.
+PED-1602,Jadlog,60.68,Curitiba,2025-10-25,2025-11-03,2025-10-27,Entregue,5,Ótimo custo-benefício!
+PED-1603,Jadlog,25.27,Recife,2025-10-24,2025-11-01,,Extraviado,3,"Chegou com pequeno atraso, mas o produto é bom."
+PED-1604,Loggi,33.74,Campinas,2025-10-26,2025-11-04,2025-10-30,Entregue,4,"Muito bom, sem reclamações."
+PED-1605,Correios,20.78,Belém,2025-10-26,2025-11-02,,Extraviado,1,"Veio errado, tive que devolver."
+PED-1606,Loggi,128.31,Florianópolis,2025-10-26,2025-11-01,2025-10-30,Entregue,4,Ótimo custo-benefício!
+PED-1607,Correios,70.66,Campinas,2025-10-27,2025-11-01,2025-11-02,Entregue,1,Produto chegou com defeito.
+PED-1608,Loggi,34.34,Recife,2025-10-26,2025-11-01,2025-10-31,Entregue,4,"Entrega rápida, muito satisfeito!"
+PED-1609,FedEx,120.37,Brasília,2025-10-26,2025-11-03,2025-11-01,Entregue,4,"Produto de qualidade, entrega pontual."
+PED-1610,Loggi,54.64,Curitiba,2025-10-27,2025-11-01,2025-10-31,Entregue,5,Entrega no prazo e produto conforme descrito.
+PED-1611,Correios,37.62,Goiânia,2025-10-28,2025-11-02,2025-10-31,Entregue,4,"Muito bom, sem reclamações."
+PED-1612,Loggi,124.99,Belo Horizonte,2025-10-27,2025-11-03,2025-10-29,Entregue,4,"Embalagem perfeita, produto intacto."
+PED-1613,Correios,27.85,Rio de Janeiro,2025-10-27,2025-11-06,,Extraviado,3,"Produto bom, mas o frete foi caro."
+PED-1614,Loggi,123.76,Belo Horizonte,2025-10-28,2025-11-05,2025-11-05,Entregue,4,"Chegou antes do prazo, excelente!"
+PED-1615,Loggi,143.71,Porto Alegre,2025-10-28,2025-11-06,2025-11-07,Entregue,2,Atendimento ao cliente inexistente.
+PED-1616,FedEx,96.82,Joinville,2025-10-29,2025-11-07,2025-11-05,Entregue,5,Superou minhas expectativas!
+PED-1617,FedEx,42.17,São Paulo,2025-10-28,2025-11-07,2025-11-05,Entregue,4,"Qualidade impecável, voltarei a comprar."
+PED-1618,Correios,136.02,Rio de Janeiro,2025-10-29,2025-11-08,2025-11-05,Entregue,4,Entrega no prazo e produto conforme descrito.
+PED-1619,FedEx,145.19,Curitiba,2025-10-29,2025-11-03,,Em Trânsito,4,"Produto top, recomendo!"
+PED-1620,Correios,46.4,Belo Horizonte,2025-10-30,2025-11-06,2025-11-02,Entregue,4,"Frete rápido, adorei!"
+PED-1621,FedEx,98.89,Joinville,2025-10-30,2025-11-07,2025-11-04,Entregue,5,"Produto original, vendedor confiável."
+PED-1622,Jadlog,28.86,Curitiba,2025-10-31,2025-11-09,2025-11-07,Entregue,5,"Entrega rápida, muito satisfeito!"
+PED-1623,Loggi,50.16,Joinville,2025-10-30,2025-11-04,2025-11-02,Entregue,5,"Entrega rápida, muito satisfeito!"
+PED-1624,Correios,132.42,São Paulo,2025-11-02,2025-11-08,2025-11-12,Entregue,1,"Veio errado, tive que devolver."
+PED-1625,Loggi,73.27,Florianópolis,2025-11-01,2025-11-08,,Cancelado,1,Produto não era o que esperava.
+PED-1626,Loggi,34.89,São Paulo,2025-11-02,2025-11-07,2025-11-07,Entregue,4,"Frete rápido, adorei!"
+PED-1627,Loggi,50.87,Curitiba,2025-11-02,2025-11-10,2025-11-09,Entregue,4,Superou minhas expectativas!
+PED-1628,Loggi,74.97,Curitiba,2025-11-02,2025-11-08,2025-11-04,Entregue,5,Parabéns pela agilidade!
+PED-1629,Loggi,72.27,Brasília,2025-11-03,2025-11-12,2025-11-10,Entregue,5,"Muito bom, sem reclamações."
+PED-1630,Correios,49.83,Belo Horizonte,2025-11-03,2025-11-13,,Cancelado,3,"Chegou com pequeno atraso, mas o produto é bom."
+PED-1631,Loggi,20.79,Curitiba,2025-11-04,2025-11-12,,Cancelado,3,"Produto bom, mas o frete foi caro."
+PED-1632,Jadlog,17.5,Joinville,2025-11-04,2025-11-12,2025-11-09,Entregue,5,"Produto top, recomendo!"
+PED-1633,Correios,60.88,Curitiba,2025-11-04,2025-11-09,2025-11-07,Entregue,5,Ótimo custo-benefício!
+PED-1634,Correios,48.53,São Paulo,2025-11-05,2025-11-12,2025-11-07,Entregue,4,"Entrega rápida, muito satisfeito!"
+PED-1635,FedEx,31.37,Rio de Janeiro,2025-11-04,2025-11-11,,Em Trânsito,4,"Produto top, recomendo!"
+PED-1636,FedEx,96.09,São Paulo,2025-11-04,2025-11-10,2025-11-06,Entregue,5,"Produto original, vendedor confiável."
+PED-1637,Jadlog,76.6,São Paulo,2025-11-04,2025-11-09,2025-11-08,Entregue,4,"Muito bom, sem reclamações."
+PED-1638,Jadlog,48.24,Recife,2025-11-05,2025-11-15,2025-11-09,Entregue,4,"Produto top, recomendo!"
+PED-1639,Jadlog,20.72,Rio de Janeiro,2025-11-05,2025-11-10,2025-11-09,Entregue,4,"Muito bom, sem reclamações."
+PED-1640,FedEx,27.13,Goiânia,2025-11-06,2025-11-11,2025-11-11,Entregue,5,"Frete rápido, adorei!"
+PED-1641,Correios,29.76,Rio de Janeiro,2025-11-07,2025-11-15,2025-11-09,Entregue,4,"Produto original, vendedor confiável."
+PED-1642,FedEx,63.58,Joinville,2025-11-09,2025-11-18,2025-11-15,Entregue,5,Parabéns pela agilidade!
+PED-1643,Correios,62.1,São Paulo,2025-11-10,2025-11-15,2025-11-13,Entregue,5,"Embalagem perfeita, produto intacto."
+PED-1644,Jadlog,56.6,São Paulo,2025-11-09,2025-11-19,2025-11-16,Entregue,4,"Qualidade impecável, voltarei a comprar."
+PED-1645,Jadlog,85.53,São Paulo,2025-11-10,2025-11-17,2025-11-20,Entregue,2,Muito atraso na entrega.
+PED-1646,FedEx,47.1,Rio de Janeiro,2025-11-10,2025-11-20,2025-11-17,Entregue,4,"Produto original, vendedor confiável."
+PED-1647,Loggi,113.96,Porto Alegre,2025-11-11,2025-11-18,,Cancelado,1,Pior experiência de compra online.
+PED-1648,FedEx,48.84,Brasília,2025-11-10,2025-11-15,2025-11-12,Entregue,5,"Produto original, vendedor confiável."
+PED-1649,Jadlog,49.56,Rio de Janeiro,2025-11-10,2025-11-20,2025-11-13,Entregue,4,"Produto original, vendedor confiável."
+PED-1650,Jadlog,100.66,Curitiba,2025-11-11,2025-11-21,2025-11-21,Entregue,5,Entrega no prazo e produto conforme descrito.
+PED-1651,Loggi,147.78,Salvador,2025-11-12,2025-11-21,2025-11-17,Entregue,5,"Embalagem perfeita, produto intacto."
+PED-1652,Correios,109.65,Recife,2025-11-12,2025-11-17,2025-11-15,Entregue,5,"Produto top, recomendo!"
+PED-1653,Loggi,51.84,Rio de Janeiro,2025-11-12,2025-11-22,2025-11-17,Entregue,5,Parabéns pela agilidade!
+PED-1654,Jadlog,36.86,Joinville,2025-11-12,2025-11-18,2025-11-16,Entregue,4,"Tudo certo, nota 10!"
+PED-1655,Loggi,51.13,Curitiba,2025-11-11,2025-11-20,2025-11-16,Entregue,5,"Produto de qualidade, entrega pontual."
+PED-1656,Correios,45.29,São Paulo,2025-11-11,2025-11-20,,Em Trânsito,4,"Produto de qualidade, entrega pontual."
+PED-1657,FedEx,18.73,Joinville,2025-11-13,2025-11-18,2025-11-19,Entregue,3,"Produto ok, mas a entrega atrasou um pouco."
+PED-1658,Jadlog,54.46,Joinville,2025-11-13,2025-11-18,2025-11-15,Entregue,4,"Embalagem perfeita, produto intacto."
+PED-1659,FedEx,56.32,Campinas,2025-11-15,2025-11-21,2025-11-23,Entregue,3,Entrega demorou mais que o previsto.
+PED-1660,FedEx,20.48,Campinas,2025-11-16,2025-11-25,2025-11-22,Entregue,4,Excelente atendimento e entrega.
+PED-1661,FedEx,122.71,Curitiba,2025-11-17,2025-11-25,2025-11-25,Entregue,5,Excelente atendimento e entrega.
+PED-1662,Loggi,133.06,Fortaleza,2025-11-17,2025-11-23,2025-11-28,Entregue,3,"Produto ok, mas a entrega atrasou um pouco."
+PED-1663,Correios,52.15,Rio de Janeiro,2025-11-17,2025-11-26,2025-11-23,Entregue,4,"Produto top, recomendo!"
+PED-1664,Loggi,15.69,Curitiba,2025-11-17,2025-11-23,2025-11-19,Entregue,4,Superou minhas expectativas!
+PED-1665,Jadlog,69.72,Rio de Janeiro,2025-11-17,2025-11-22,2025-11-22,Entregue,5,"Embalagem perfeita, produto intacto."
+PED-1666,Correios,47.88,Rio de Janeiro,2025-11-19,2025-11-28,2025-11-26,Entregue,5,Excelente atendimento e entrega.
+PED-1667,Jadlog,17.81,São Paulo,2025-11-18,2025-11-23,2025-11-22,Entregue,4,"Embalagem perfeita, produto intacto."
+PED-1668,Correios,46.63,São Paulo,2025-11-18,2025-11-27,2025-11-22,Entregue,5,"Produto original, vendedor confiável."
+PED-1669,Jadlog,21.88,Fortaleza,2025-11-18,2025-11-24,2025-11-20,Entregue,4,"Tudo certo, nota 10!"
+PED-1670,FedEx,27.99,Porto Alegre,2025-11-19,2025-11-25,2025-11-24,Entregue,4,"Muito bom, sem reclamações."
+PED-1671,Jadlog,80.09,Campinas,2025-11-20,2025-11-25,2025-11-23,Entregue,4,"Muito bom, sem reclamações."
+PED-1672,Jadlog,136.35,Recife,2025-11-20,2025-11-27,2025-11-23,Entregue,5,Ótimo custo-benefício!
+PED-1673,Loggi,53.37,Curitiba,2025-11-20,2025-11-26,2025-11-22,Entregue,4,Entrega no prazo e produto conforme descrito.
+PED-1674,Loggi,107.65,São Paulo,2025-11-22,2025-11-29,2025-12-03,Entregue,3,"Produto ok, mas a entrega atrasou um pouco."
+PED-1675,Loggi,106.05,Porto Alegre,2025-11-22,2025-11-27,2025-11-25,Entregue,5,"Produto top, recomendo!"
+PED-1676,FedEx,26.14,Joinville,2025-11-23,2025-11-29,,Cancelado,3,Esperava mais pela qualidade do produto.
+PED-1677,Correios,22.54,São Paulo,2025-11-23,2025-11-28,2025-11-28,Entregue,5,"Produto original, vendedor confiável."
+PED-1678,Loggi,28.21,Curitiba,2025-11-23,2025-11-28,2025-11-25,Entregue,5,Excelente atendimento e entrega.
+PED-1679,Correios,59.77,Joinville,2025-11-24,2025-12-03,2025-11-29,Entregue,4,"Produto de qualidade, entrega pontual."
+PED-1680,Correios,49.27,Curitiba,2025-11-24,2025-11-30,2025-11-30,Entregue,5,"Produto top, recomendo!"
+PED-1681,Loggi,22.43,Belo Horizonte,2025-11-25,2025-12-01,2025-11-28,Entregue,4,Excelente atendimento e entrega.
+PED-1682,Jadlog,52.84,Salvador,2025-11-25,2025-12-04,2025-11-30,Entregue,5,"Entrega rápida, muito satisfeito!"
+PED-1683,Loggi,52.88,Belo Horizonte,2025-11-26,2025-12-05,,Em Trânsito,2,"Produto extraviado, tive que abrir reclamação."
+PED-1684,Loggi,137.32,Brasília,2025-11-25,2025-12-03,2025-12-01,Entregue,5,"Embalagem perfeita, produto intacto."
+PED-1685,Loggi,61.23,Curitiba,2025-11-27,2025-12-07,2025-11-29,Entregue,4,"Entrega rápida, muito satisfeito!"
+PED-1686,Loggi,18.53,Belo Horizonte,2025-11-26,2025-12-04,,Em Trânsito,3,"Produto bom, mas o frete foi caro."
+PED-1687,Jadlog,17.35,Salvador,2025-11-27,2025-12-05,,Em Trânsito,3,Embalagem poderia ser melhor.
+PED-1688,Loggi,136.7,São Paulo,2025-11-28,2025-12-04,,Extraviado,2,Atrasou e a caixa veio amassada.
+PED-1689,Loggi,25.94,Joinville,2025-11-29,2025-12-08,2025-12-02,Entregue,4,Superou minhas expectativas!
+PED-1690,FedEx,144.87,Recife,2025-11-28,2025-12-03,2025-12-02,Entregue,4,Parabéns pela agilidade!
+PED-1691,Loggi,134.85,Curitiba,2025-11-30,2025-12-07,2025-12-06,Entregue,4,Ótimo custo-benefício!
+PED-1692,Correios,146.4,São Paulo,2025-11-30,2025-12-06,2025-12-03,Entregue,4,"Chegou antes do prazo, excelente!"
+PED-1693,Loggi,15.21,Brasília,2025-11-30,2025-12-10,,Em Trânsito,2,"Produto extraviado, tive que abrir reclamação."
+PED-1694,Correios,146.83,Belo Horizonte,2025-12-01,2025-12-10,2025-12-06,Entregue,5,Parabéns pela agilidade!
+PED-1695,Jadlog,126.44,Joinville,2025-12-01,2025-12-07,2025-12-03,Entregue,5,Ótimo custo-benefício!
+PED-1696,Jadlog,26.02,Salvador,2025-12-02,2025-12-11,2025-12-12,Entregue,3,Embalagem poderia ser melhor.
+PED-1697,Correios,26.02,São Paulo,2025-12-01,2025-12-10,,Em Trânsito,3,"Produto ok, mas a entrega atrasou um pouco."
+PED-1698,Jadlog,137.71,Belo Horizonte,2025-12-01,2025-12-09,,Extraviado,1,Atrasou e a caixa veio amassada.
+PED-1699,Correios,99.86,Rio de Janeiro,2025-12-01,2025-12-09,2025-12-07,Entregue,5,Parabéns pela agilidade!
+PED-1700,Correios,105.04,Manaus,2025-12-02,2025-12-12,2025-12-04,Entregue,4,Superou minhas expectativas!
+PED-1701,Correios,23.95,Brasília,2025-12-02,2025-12-11,,Em Trânsito,3,Esperava mais pela qualidade do produto.
+PED-1702,FedEx,24.21,Porto Alegre,2025-12-03,2025-12-08,2025-12-05,Entregue,5,"Produto original, vendedor confiável."
+PED-1703,Jadlog,29.71,Joinville,2025-12-03,2025-12-08,2025-12-07,Entregue,4,"Produto original, vendedor confiável."
+PED-1704,Loggi,112.79,Belo Horizonte,2025-12-03,2025-12-08,2025-12-08,Entregue,4,"Chegou antes do prazo, excelente!"
+PED-1705,Loggi,91.68,Curitiba,2025-12-03,2025-12-13,,Em Trânsito,2,Atendimento ao cliente inexistente.
+PED-1706,Jadlog,18.54,Salvador,2025-12-03,2025-12-12,2025-12-05,Entregue,5,"Muito bom, sem reclamações."
+PED-1707,Jadlog,62.14,Campinas,2025-12-04,2025-12-14,2025-12-12,Entregue,4,"Frete rápido, adorei!"
+PED-1708,Jadlog,95.75,Belém,2025-12-05,2025-12-12,2025-12-12,Entregue,4,Superou minhas expectativas!
+PED-1709,Correios,33.18,Belo Horizonte,2025-12-05,2025-12-14,2025-12-07,Entregue,4,"Muito bom, sem reclamações."
+PED-1710,Loggi,38.12,Curitiba,2025-12-05,2025-12-10,2025-12-07,Entregue,5,"Produto top, recomendo!"
+PED-1711,Correios,20.26,Rio de Janeiro,2025-12-07,2025-12-15,2025-12-14,Entregue,4,Excelente atendimento e entrega.
+PED-1712,Loggi,28.24,Porto Alegre,2025-12-07,2025-12-12,2025-12-09,Entregue,5,"Entrega rápida, muito satisfeito!"
+PED-1713,Jadlog,66.35,Joinville,2025-12-09,2025-12-18,2025-12-15,Entregue,5,"Qualidade impecável, voltarei a comprar."
+PED-1714,Correios,17.73,Belo Horizonte,2025-12-09,2025-12-15,2025-12-12,Entregue,5,"Produto top, recomendo!"
+PED-1715,FedEx,113.72,Curitiba,2025-12-08,2025-12-14,2025-12-11,Entregue,5,"Produto original, vendedor confiável."
+PED-1716,Loggi,27.92,Rio de Janeiro,2025-12-09,2025-12-17,2025-12-11,Entregue,4,"Chegou antes do prazo, excelente!"
+PED-1717,Correios,15.63,Curitiba,2025-12-10,2025-12-18,2025-12-15,Entregue,4,"Muito bom, sem reclamações."
+PED-1718,FedEx,20.11,Florianópolis,2025-12-11,2025-12-19,2025-12-16,Entregue,4,"Frete rápido, adorei!"
+PED-1719,Loggi,25.94,Belo Horizonte,2025-12-11,2025-12-18,2025-12-20,Entregue,1,Pior experiência de compra online.
+PED-1720,FedEx,30.45,São Paulo,2025-12-12,2025-12-17,2025-12-16,Entregue,4,"Produto top, recomendo!"
+PED-1721,Correios,30.33,Porto Alegre,2025-12-12,2025-12-18,2025-12-16,Entregue,5,"Muito bom, sem reclamações."
+PED-1722,Correios,119.72,Brasília,2025-12-11,2025-12-17,2025-12-21,Entregue,2,Cancelei porque demorou demais.
+PED-1723,Correios,23.5,Curitiba,2025-12-12,2025-12-18,2025-12-17,Entregue,4,"Entrega rápida, muito satisfeito!"
+PED-1724,FedEx,22.74,Belém,2025-12-14,2025-12-22,2025-12-20,Entregue,4,"Embalagem perfeita, produto intacto."
+PED-1725,Jadlog,65.32,Joinville,2025-12-15,2025-12-21,2025-12-18,Entregue,5,Parabéns pela agilidade!
+PED-1726,Jadlog,33.82,Porto Alegre,2025-12-14,2025-12-19,2025-12-16,Entregue,5,"Produto original, vendedor confiável."
+PED-1727,Loggi,101.84,Joinville,2025-12-14,2025-12-23,2025-12-16,Entregue,4,Superou minhas expectativas!
+PED-1728,Loggi,17.43,Goiânia,2025-12-15,2025-12-25,,Cancelado,3,Esperava mais pela qualidade do produto.
+PED-1729,FedEx,45.49,Curitiba,2025-12-15,2025-12-23,2025-12-18,Entregue,5,"Chegou antes do prazo, excelente!"
+PED-1730,FedEx,45.51,Rio de Janeiro,2025-12-16,2025-12-23,2025-12-21,Entregue,5,"Muito bom, sem reclamações."
+PED-1731,Jadlog,40.04,Brasília,2025-12-15,2025-12-22,,Em Trânsito,3,Embalagem poderia ser melhor.
+PED-1732,FedEx,51.03,Belo Horizonte,2025-12-17,2025-12-25,2025-12-23,Entregue,4,"Produto original, vendedor confiável."
+PED-1733,Correios,94.4,São Paulo,2025-12-18,2025-12-24,2025-12-20,Entregue,4,"Entrega rápida, muito satisfeito!"
+PED-1734,Jadlog,46.46,Rio de Janeiro,2025-12-17,2025-12-25,2025-12-20,Entregue,5,"Chegou antes do prazo, excelente!"
+PED-1735,FedEx,25.39,Brasília,2025-12-17,2025-12-23,,Em Trânsito,3,Entrega demorou mais que o previsto.
+PED-1736,FedEx,22.49,Curitiba,2025-12-18,2025-12-25,2025-12-28,Entregue,2,"Suporte ruim, difícil contato."
+PED-1737,Correios,18.52,Belo Horizonte,2025-12-18,2025-12-27,,Extraviado,1,Cancelei porque demorou demais.
+PED-1738,Jadlog,59.92,São Paulo,2025-12-18,2025-12-26,2025-12-30,Entregue,2,"Produto extraviado, tive que abrir reclamação."
+PED-1739,Loggi,35.0,São Paulo,2025-12-19,2025-12-27,2025-12-27,Entregue,5,"Qualidade impecável, voltarei a comprar."
+PED-1740,FedEx,115.41,Florianópolis,2025-12-20,2025-12-27,,Em Trânsito,4,Parabéns pela agilidade!
+PED-1741,FedEx,42.91,São Paulo,2025-12-19,2025-12-25,2025-12-23,Entregue,4,Superou minhas expectativas!
+PED-1742,FedEx,49.56,Belo Horizonte,2025-12-19,2025-12-26,2025-12-28,Entregue,3,"Produto bom, mas o frete foi caro."
+PED-1743,Loggi,40.53,Joinville,2025-12-19,2025-12-26,2025-12-25,Entregue,5,"Entrega rápida, muito satisfeito!"
+PED-1744,Jadlog,20.32,Campinas,2025-12-20,2025-12-26,2025-12-26,Entregue,4,"Produto original, vendedor confiável."
+PED-1745,FedEx,24.85,Curitiba,2025-12-20,2025-12-26,,Cancelado,1,Nunca mais compro aqui.
+PED-1746,FedEx,61.59,Campinas,2025-12-21,2025-12-31,2025-12-30,Entregue,4,Parabéns pela agilidade!
+PED-1747,Jadlog,58.26,Joinville,2025-12-21,2025-12-29,,Em Trânsito,4,"Produto top, recomendo!"
+PED-1748,FedEx,126.47,Curitiba,2025-12-21,2025-12-26,2025-12-25,Entregue,5,Ótimo custo-benefício!
+PED-1749,Jadlog,20.7,Curitiba,2025-12-20,2025-12-28,,Em Trânsito,4,"Produto top, recomendo!"
+PED-1750,Jadlog,22.56,Belo Horizonte,2025-12-21,2025-12-26,2025-12-25,Entregue,4,"Chegou antes do prazo, excelente!"
+PED-1751,Correios,16.35,Curitiba,2025-12-22,2026-01-01,2025-12-26,Entregue,5,"Entrega rápida, muito satisfeito!"
+PED-1752,Correios,28.97,Rio de Janeiro,2025-12-22,2026-01-01,2026-01-06,Entregue,2,Atrasou e a caixa veio amassada.
+PED-1753,Jadlog,124.43,Joinville,2025-12-23,2026-01-02,,Cancelado,1,Atendimento ao cliente inexistente.
+PED-1754,Correios,51.37,Belo Horizonte,2025-12-23,2025-12-30,2025-12-28,Entregue,5,Entrega no prazo e produto conforme descrito.
+PED-1755,Loggi,47.52,São Paulo,2025-12-24,2025-12-30,2025-12-26,Entregue,5,Parabéns pela agilidade!
+PED-1756,Loggi,125.55,Joinville,2025-12-24,2025-12-31,2025-12-28,Entregue,4,"Entrega rápida, muito satisfeito!"
+PED-1757,FedEx,20.74,Belo Horizonte,2025-12-25,2026-01-04,,Em Trânsito,3,Esperava mais pela qualidade do produto.
+PED-1758,Correios,19.02,Fortaleza,2025-12-25,2026-01-01,,Em Trânsito,2,"Não recomendo, péssima experiência."
+PED-1759,Loggi,37.39,Fortaleza,2025-12-24,2025-12-29,2026-01-03,Entregue,3,"Nada de especial, cumpriu o básico."
+PED-1760,Jadlog,129.32,Rio de Janeiro,2025-12-25,2025-12-31,2025-12-27,Entregue,5,Superou minhas expectativas!
+PED-1761,Correios,15.29,Rio de Janeiro,2025-12-25,2025-12-31,2025-12-27,Entregue,4,Excelente atendimento e entrega.
+PED-1762,Jadlog,26.02,Curitiba,2025-12-25,2025-12-31,2025-12-31,Entregue,4,"Qualidade impecável, voltarei a comprar."
+PED-1763,Correios,45.75,Rio de Janeiro,2025-12-25,2026-01-01,,Cancelado,2,Produto não era o que esperava.
+PED-1764,Correios,34.72,Joinville,2025-12-25,2026-01-04,,Em Trânsito,4,"Tudo certo, nota 10!"
+PED-1765,Loggi,58.96,São Paulo,2025-12-25,2026-01-04,2026-01-02,Entregue,4,"Chegou antes do prazo, excelente!"
+PED-1766,FedEx,97.57,São Paulo,2025-12-26,2026-01-02,2025-12-28,Entregue,5,"Qualidade impecável, voltarei a comprar."
+PED-1767,Loggi,58.27,São Paulo,2025-12-26,2026-01-03,2026-01-07,Entregue,3,"Produto bom, mas o frete foi caro."
+PED-1768,Correios,28.49,Fortaleza,2025-12-27,2026-01-03,2026-01-03,Entregue,4,"Produto top, recomendo!"
+PED-1769,Loggi,16.81,Fortaleza,2025-12-28,2026-01-07,,Em Trânsito,2,Muito atraso na entrega.
+PED-1770,FedEx,52.06,Joinville,2025-12-27,2026-01-04,2026-01-08,Entregue,1,Atendimento ao cliente inexistente.
+PED-1771,Loggi,51.05,São Paulo,2025-12-29,2026-01-04,2026-01-02,Entregue,4,Ótimo custo-benefício!
+PED-1772,FedEx,15.82,Manaus,2025-12-29,2026-01-04,,Extraviado,3,"Chegou com pequeno atraso, mas o produto é bom."
+PED-1773,Loggi,26.06,São Paulo,2025-12-29,2026-01-08,2026-01-06,Entregue,4,"Frete rápido, adorei!"
+PED-1774,Loggi,94.2,Rio de Janeiro,2025-12-30,2026-01-07,2026-01-06,Entregue,5,"Muito bom, sem reclamações."
+PED-1775,Jadlog,31.19,Porto Alegre,2025-12-31,2026-01-10,2026-01-02,Entregue,4,Ótimo custo-benefício!
+PED-1776,Jadlog,26.83,Campinas,2025-12-31,2026-01-10,,Extraviado,2,Nunca mais compro aqui.
+PED-1777,FedEx,87.17,Curitiba,2025-12-30,2026-01-07,2026-01-02,Entregue,4,"Entrega rápida, muito satisfeito!"
+PED-1778,FedEx,21.18,São Paulo,2026-01-01,2026-01-08,2026-01-08,Entregue,5,"Qualidade impecável, voltarei a comprar."
+PED-1779,Loggi,23.7,Joinville,2026-01-01,2026-01-09,2026-01-13,Entregue,1,Atrasou e a caixa veio amassada.
+PED-1780,Jadlog,23.66,Manaus,2026-01-01,2026-01-09,2026-01-10,Entregue,1,Produto não era o que esperava.
+PED-1781,Loggi,63.11,São Paulo,2025-12-31,2026-01-10,2026-01-04,Entregue,4,Ótimo custo-benefício!
+PED-1782,Jadlog,82.97,Joinville,2026-01-01,2026-01-07,2026-01-05,Entregue,4,"Embalagem perfeita, produto intacto."
+PED-1783,Loggi,19.51,Recife,2026-01-01,2026-01-07,2026-01-06,Entregue,4,"Entrega rápida, muito satisfeito!"
+PED-1784,Correios,60.46,São Paulo,2026-01-02,2026-01-07,2026-01-10,Entregue,3,"Produto bom, mas o frete foi caro."
+PED-1785,FedEx,25.25,Florianópolis,2026-01-02,2026-01-08,2026-01-04,Entregue,5,Superou minhas expectativas!
+PED-1786,FedEx,130.4,Fortaleza,2026-01-01,2026-01-06,2026-01-05,Entregue,5,Superou minhas expectativas!
+PED-1787,FedEx,89.66,Curitiba,2026-01-01,2026-01-06,2026-01-11,Entregue,3,Entrega demorou mais que o previsto.
+PED-1788,FedEx,35.93,São Paulo,2026-01-02,2026-01-07,2026-01-04,Entregue,5,"Qualidade impecável, voltarei a comprar."
+PED-1789,Loggi,25.91,Recife,2026-01-01,2026-01-08,2026-01-04,Entregue,4,Excelente atendimento e entrega.
+PED-1790,Loggi,18.34,São Paulo,2026-01-02,2026-01-07,2026-01-06,Entregue,4,Parabéns pela agilidade!
+PED-1791,Correios,122.5,Campinas,2026-01-02,2026-01-07,2026-01-05,Entregue,4,"Tudo certo, nota 10!"
+PED-1792,Loggi,27.45,Belo Horizonte,2026-01-02,2026-01-09,,Em Trânsito,4,Superou minhas expectativas!
+PED-1793,Correios,34.86,Rio de Janeiro,2026-01-04,2026-01-12,2026-01-11,Entregue,4,"Muito bom, sem reclamações."
+PED-1794,Jadlog,76.82,Brasília,2026-01-04,2026-01-13,2026-01-12,Entregue,5,Superou minhas expectativas!
+PED-1795,Correios,55.33,Florianópolis,2026-01-03,2026-01-12,2026-01-14,Entregue,2,Frete caro e entrega lenta.
+PED-1796,Loggi,43.96,Porto Alegre,2026-01-03,2026-01-11,,Cancelado,3,"Chegou com pequeno atraso, mas o produto é bom."
+PED-1797,Correios,143.53,Salvador,2026-01-05,2026-01-10,2026-01-08,Entregue,4,"Produto top, recomendo!"
+PED-1798,Correios,97.75,São Paulo,2026-01-04,2026-01-13,,Em Trânsito,4,"Tudo certo, nota 10!"
+PED-1799,Loggi,47.7,Rio de Janeiro,2026-01-05,2026-01-15,,Extraviado,3,Embalagem poderia ser melhor.
+PED-1800,Loggi,36.72,Curitiba,2026-01-05,2026-01-14,2026-01-09,Entregue,4,"Produto top, recomendo!"
+PED-1801,Jadlog,50.02,São Paulo,2026-01-04,2026-01-14,2026-01-14,Entregue,4,Ótimo custo-benefício!
+PED-1802,Loggi,59.73,Manaus,2026-01-05,2026-01-12,2026-01-11,Entregue,4,"Frete rápido, adorei!"
+PED-1803,FedEx,52.32,Belo Horizonte,2026-01-06,2026-01-14,2026-01-08,Entregue,4,Entrega no prazo e produto conforme descrito.
+PED-1804,Loggi,101.4,Rio de Janeiro,2026-01-07,2026-01-13,2026-01-10,Entregue,5,"Tudo certo, nota 10!"
+PED-1805,Loggi,18.89,Rio de Janeiro,2026-01-08,2026-01-17,,Cancelado,3,Embalagem poderia ser melhor.
+PED-1806,Correios,121.18,Curitiba,2026-01-08,2026-01-17,2026-01-17,Entregue,4,"Embalagem perfeita, produto intacto."
+PED-1807,FedEx,29.03,Rio de Janeiro,2026-01-10,2026-01-20,2026-01-12,Entregue,5,Excelente atendimento e entrega.
+PED-1808,Jadlog,28.66,Florianópolis,2026-01-10,2026-01-17,2026-01-17,Entregue,4,Excelente atendimento e entrega.
+PED-1809,FedEx,73.24,Joinville,2026-01-10,2026-01-17,2026-01-16,Entregue,4,"Entrega rápida, muito satisfeito!"
+PED-1810,FedEx,38.67,Curitiba,2026-01-11,2026-01-21,2026-01-16,Entregue,4,"Tudo certo, nota 10!"
+PED-1811,Jadlog,40.1,Rio de Janeiro,2026-01-11,2026-01-19,2026-01-19,Entregue,4,"Produto original, vendedor confiável."
+PED-1812,FedEx,76.44,Curitiba,2026-01-11,2026-01-18,,Cancelado,2,Frete caro e entrega lenta.
+PED-1813,Jadlog,24.33,São Paulo,2026-01-13,2026-01-18,,Cancelado,3,"Chegou com pequeno atraso, mas o produto é bom."
+PED-1814,Jadlog,27.12,Brasília,2026-01-14,2026-01-20,2026-01-22,Entregue,3,"Produto bom, mas o frete foi caro."
+PED-1815,FedEx,125.84,Belo Horizonte,2026-01-13,2026-01-23,2026-01-23,Entregue,5,Superou minhas expectativas!
+PED-1816,Jadlog,71.12,Florianópolis,2026-01-14,2026-01-19,2026-01-20,Entregue,1,Produto chegou com defeito.
+PED-1817,FedEx,16.9,Fortaleza,2026-01-14,2026-01-24,,Em Trânsito,2,Atendimento ao cliente inexistente.
+PED-1818,Loggi,104.34,Manaus,2026-01-15,2026-01-22,2026-01-18,Entregue,5,"Produto de qualidade, entrega pontual."
+PED-1819,Correios,28.56,São Paulo,2026-01-15,2026-01-25,2026-01-18,Entregue,5,Entrega no prazo e produto conforme descrito.
+PED-1820,Jadlog,25.68,Belém,2026-01-16,2026-01-21,,Cancelado,3,"Nada de especial, cumpriu o básico."
+PED-1821,Correios,69.41,Goiânia,2026-01-15,2026-01-20,2026-01-21,Entregue,2,"Produto extraviado, tive que abrir reclamação."
+PED-1822,Loggi,23.66,Florianópolis,2026-01-17,2026-01-24,2026-01-24,Entregue,4,Superou minhas expectativas!
+PED-1823,Correios,85.67,São Paulo,2026-01-17,2026-01-22,2026-01-23,Entregue,2,Cancelei porque demorou demais.
+PED-1824,FedEx,122.0,São Paulo,2026-01-16,2026-01-24,2026-01-21,Entregue,5,"Frete rápido, adorei!"
+PED-1825,Loggi,81.6,Belo Horizonte,2026-01-17,2026-01-23,2026-01-19,Entregue,5,Ótimo custo-benefício!
+PED-1826,Correios,37.8,Curitiba,2026-01-17,2026-01-26,2026-01-30,Entregue,2,Atendimento ao cliente inexistente.
+PED-1827,Correios,60.4,Recife,2026-01-17,2026-01-24,2026-01-24,Entregue,5,"Produto de qualidade, entrega pontual."
+PED-1828,FedEx,34.12,São Paulo,2026-01-19,2026-01-24,2026-01-27,Entregue,3,Esperava mais pela qualidade do produto.
+PED-1829,Loggi,44.02,Belém,2026-01-18,2026-01-26,2026-01-25,Entregue,4,Ótimo custo-benefício!
+PED-1830,Correios,54.84,Curitiba,2026-01-18,2026-01-28,2026-01-25,Entregue,4,"Frete rápido, adorei!"
+PED-1831,Correios,36.93,Joinville,2026-01-20,2026-01-26,2026-01-23,Entregue,4,"Entrega rápida, muito satisfeito!"
+PED-1832,FedEx,21.73,Florianópolis,2026-01-20,2026-01-29,2026-01-24,Entregue,5,"Frete rápido, adorei!"
+PED-1833,FedEx,20.35,Goiânia,2026-01-21,2026-01-26,2026-01-25,Entregue,4,Superou minhas expectativas!
+PED-1834,FedEx,47.44,São Paulo,2026-01-21,2026-01-29,2026-01-23,Entregue,4,Superou minhas expectativas!
+PED-1835,Correios,83.4,Brasília,2026-01-22,2026-01-27,2026-01-30,Entregue,3,Embalagem poderia ser melhor.
+PED-1836,Correios,89.24,Salvador,2026-01-22,2026-01-28,2026-01-26,Entregue,5,Ótimo custo-benefício!
+PED-1837,Correios,93.58,Florianópolis,2026-01-22,2026-01-31,2026-01-26,Entregue,5,"Tudo certo, nota 10!"
+PED-1838,Correios,16.95,Joinville,2026-01-22,2026-02-01,2026-01-27,Entregue,5,Superou minhas expectativas!
+PED-1839,Jadlog,81.73,Porto Alegre,2026-01-23,2026-01-31,2026-01-27,Entregue,4,"Embalagem perfeita, produto intacto."
+PED-1840,FedEx,94.66,Joinville,2026-01-24,2026-02-01,2026-01-30,Entregue,5,"Embalagem perfeita, produto intacto."
+PED-1841,FedEx,42.41,Curitiba,2026-01-23,2026-01-29,,Em Trânsito,2,Decepcionante do início ao fim.
+PED-1842,FedEx,118.7,São Paulo,2026-01-24,2026-02-01,2026-01-28,Entregue,5,Ótimo custo-benefício!
+PED-1843,Loggi,38.2,São Paulo,2026-01-24,2026-02-02,2026-02-02,Entregue,4,"Muito bom, sem reclamações."
+PED-1844,Loggi,21.22,Belo Horizonte,2026-01-25,2026-02-04,,Em Trânsito,3,"Produto ok, mas a entrega atrasou um pouco."
+PED-1845,Loggi,26.54,Joinville,2026-01-24,2026-01-30,2026-01-26,Entregue,4,"Tudo certo, nota 10!"
+PED-1846,Loggi,56.19,Joinville,2026-01-25,2026-02-03,2026-02-01,Entregue,5,Ótimo custo-benefício!
+PED-1847,Loggi,22.76,Curitiba,2026-01-25,2026-01-30,,Em Trânsito,2,Produto não era o que esperava.
+PED-1848,Jadlog,90.54,Rio de Janeiro,2026-01-25,2026-02-03,2026-01-27,Entregue,5,Excelente atendimento e entrega.
+PED-1849,FedEx,20.16,Belo Horizonte,2026-01-26,2026-02-01,2026-02-01,Entregue,4,Ótimo custo-benefício!
+PED-1850,Correios,29.35,São Paulo,2026-01-27,2026-02-01,2026-01-31,Entregue,5,Superou minhas expectativas!
+PED-1851,Loggi,60.79,Belém,2026-01-27,2026-02-04,,Cancelado,2,Atendimento ao cliente inexistente.
+PED-1852,Correios,108.44,Porto Alegre,2026-01-27,2026-02-03,,Em Trânsito,3,Entrega demorou mais que o previsto.
+PED-1853,Correios,36.29,São Paulo,2026-01-28,2026-02-05,2026-01-30,Entregue,4,"Produto de qualidade, entrega pontual."
+PED-1854,FedEx,36.67,São Paulo,2026-01-27,2026-02-05,2026-01-30,Entregue,5,Entrega no prazo e produto conforme descrito.
+PED-1855,Correios,30.2,Florianópolis,2026-01-29,2026-02-03,2026-02-02,Entregue,5,"Produto top, recomendo!"
+PED-1856,Loggi,100.92,Curitiba,2026-01-29,2026-02-08,2026-02-10,Entregue,2,Pior experiência de compra online.
+PED-1857,Correios,132.72,Curitiba,2026-01-30,2026-02-05,,Em Trânsito,4,Parabéns pela agilidade!
+PED-1858,FedEx,107.8,Belo Horizonte,2026-01-30,2026-02-08,2026-02-05,Entregue,5,"Entrega rápida, muito satisfeito!"
+PED-1859,Loggi,123.01,Recife,2026-01-29,2026-02-05,,Em Trânsito,2,"Embalagem danificada, produto riscado."
+PED-1860,Loggi,26.81,São Paulo,2026-01-30,2026-02-09,2026-02-05,Entregue,4,"Produto de qualidade, entrega pontual."
+PED-1861,Correios,21.24,Porto Alegre,2026-01-30,2026-02-04,,Em Trânsito,4,"Produto original, vendedor confiável."
+PED-1862,Correios,59.89,São Paulo,2026-01-31,2026-02-05,2026-02-02,Entregue,5,Parabéns pela agilidade!
+PED-1863,Jadlog,118.13,Florianópolis,2026-01-30,2026-02-07,,Extraviado,1,Nunca mais compro aqui.
+PED-1864,Jadlog,76.51,Belo Horizonte,2026-01-31,2026-02-05,2026-02-03,Entregue,4,Parabéns pela agilidade!
+PED-1865,Loggi,88.21,São Paulo,2026-02-01,2026-02-09,2026-02-14,Entregue,1,"Não recomendo, péssima experiência."
+PED-1866,Loggi,34.56,São Paulo,2026-01-31,2026-02-10,,Em Trânsito,3,"Razoável, poderia ser melhor."
+PED-1867,Loggi,16.59,Brasília,2026-01-31,2026-02-10,2026-02-06,Entregue,4,"Muito bom, sem reclamações."
+PED-1868,Correios,18.88,Manaus,2026-02-02,2026-02-11,2026-02-12,Entregue,1,"Produto extraviado, tive que abrir reclamação."
+PED-1869,Loggi,19.23,Curitiba,2026-02-01,2026-02-11,2026-02-11,Entregue,4,"Produto original, vendedor confiável."
+PED-1870,FedEx,17.82,São Paulo,2026-02-01,2026-02-09,2026-02-12,Entregue,3,"Produto bom, mas o frete foi caro."
+PED-1871,Loggi,29.67,Curitiba,2026-02-03,2026-02-08,,Em Trânsito,4,Excelente atendimento e entrega.
+PED-1872,Jadlog,64.34,Fortaleza,2026-02-03,2026-02-12,2026-02-15,Entregue,2,Cancelei porque demorou demais.
+PED-1873,Jadlog,48.95,Goiânia,2026-02-04,2026-02-11,,Em Trânsito,3,Entrega demorou mais que o previsto.
+PED-1874,FedEx,86.83,Rio de Janeiro,2026-02-03,2026-02-12,2026-02-12,Entregue,5,"Chegou antes do prazo, excelente!"
+PED-1875,Jadlog,61.7,Manaus,2026-02-03,2026-02-13,2026-02-14,Entregue,1,"Suporte ruim, difícil contato."
+PED-1876,Jadlog,47.02,Curitiba,2026-02-03,2026-02-09,,Extraviado,1,"Suporte ruim, difícil contato."
+PED-1877,Loggi,73.48,Porto Alegre,2026-02-03,2026-02-11,,Extraviado,2,"Não recomendo, péssima experiência."
+PED-1878,FedEx,41.9,São Paulo,2026-02-03,2026-02-13,2026-02-10,Entregue,5,"Embalagem perfeita, produto intacto."
+PED-1879,Correios,83.59,São Paulo,2026-02-04,2026-02-13,2026-02-11,Entregue,4,"Frete rápido, adorei!"
+PED-1880,FedEx,35.87,Porto Alegre,2026-02-04,2026-02-12,2026-02-15,Entregue,3,Entrega demorou mais que o previsto.
+PED-1881,FedEx,92.06,Belo Horizonte,2026-02-04,2026-02-14,2026-02-06,Entregue,4,Parabéns pela agilidade!
+PED-1882,Correios,61.19,Joinville,2026-02-05,2026-02-15,2026-02-08,Entregue,5,Excelente atendimento e entrega.
+PED-1883,Loggi,139.84,Rio de Janeiro,2026-02-06,2026-02-16,2026-02-08,Entregue,5,"Entrega rápida, muito satisfeito!"
+PED-1884,FedEx,138.4,São Paulo,2026-02-06,2026-02-12,2026-02-10,Entregue,5,Entrega no prazo e produto conforme descrito.
+PED-1885,FedEx,108.4,Curitiba,2026-02-06,2026-02-15,2026-02-16,Entregue,1,Produto não era o que esperava.
+PED-1886,Jadlog,99.2,São Paulo,2026-02-07,2026-02-17,2026-02-10,Entregue,5,Parabéns pela agilidade!
+PED-1887,Correios,46.82,São Paulo,2026-02-07,2026-02-14,2026-02-09,Entregue,5,"Frete rápido, adorei!"
+PED-1888,Jadlog,57.79,Rio de Janeiro,2026-02-07,2026-02-15,2026-02-09,Entregue,4,"Produto original, vendedor confiável."
+PED-1889,Jadlog,58.21,Belém,2026-02-07,2026-02-15,,Em Trânsito,2,Nunca mais compro aqui.
+PED-1890,Loggi,26.76,São Paulo,2026-02-08,2026-02-13,2026-02-12,Entregue,5,Superou minhas expectativas!
+PED-1891,Jadlog,18.46,São Paulo,2026-02-09,2026-02-18,2026-02-15,Entregue,4,"Produto de qualidade, entrega pontual."
+PED-1892,Jadlog,77.53,Brasília,2026-02-09,2026-02-19,2026-02-11,Entregue,5,"Frete rápido, adorei!"
+PED-1893,Loggi,20.74,São Paulo,2026-02-08,2026-02-18,2026-02-16,Entregue,4,"Frete rápido, adorei!"
+PED-1894,Loggi,82.9,Curitiba,2026-02-10,2026-02-18,2026-02-16,Entregue,4,"Produto de qualidade, entrega pontual."
+PED-1895,Jadlog,83.52,Curitiba,2026-02-09,2026-02-18,2026-02-14,Entregue,5,"Chegou antes do prazo, excelente!"
+PED-1896,Correios,21.2,Curitiba,2026-02-11,2026-02-18,,Em Trânsito,2,Decepcionante do início ao fim.
+PED-1897,Loggi,45.94,Goiânia,2026-02-11,2026-02-19,2026-02-16,Entregue,4,"Produto top, recomendo!"
+PED-1898,Jadlog,19.06,Recife,2026-02-12,2026-02-20,2026-02-20,Entregue,5,"Embalagem perfeita, produto intacto."
+PED-1899,Correios,121.82,Belo Horizonte,2026-02-13,2026-02-21,2026-02-16,Entregue,5,Excelente atendimento e entrega.
+PED-1900,Jadlog,53.67,Campinas,2026-02-12,2026-02-21,2026-02-20,Entregue,5,Ótimo custo-benefício!
+PED-1901,Jadlog,16.85,Brasília,2026-02-13,2026-02-22,2026-02-16,Entregue,4,"Frete rápido, adorei!"
+PED-1902,Loggi,26.66,São Paulo,2026-02-14,2026-02-21,2026-02-17,Entregue,4,"Produto de qualidade, entrega pontual."
+PED-1903,Loggi,27.97,Curitiba,2026-02-15,2026-02-21,,Cancelado,2,Frete caro e entrega lenta.
+PED-1904,Jadlog,27.51,São Paulo,2026-02-14,2026-02-22,2026-02-24,Entregue,2,Muito atraso na entrega.
+PED-1905,FedEx,129.17,São Paulo,2026-02-15,2026-02-22,2026-02-21,Entregue,5,"Muito bom, sem reclamações."
+PED-1906,Jadlog,26.95,São Paulo,2026-02-17,2026-02-22,,Cancelado,3,"Chegou com pequeno atraso, mas o produto é bom."
+PED-1907,FedEx,33.54,Recife,2026-02-16,2026-02-25,2026-02-23,Entregue,4,"Frete rápido, adorei!"
+PED-1908,Correios,16.14,São Paulo,2026-02-18,2026-02-23,2026-02-22,Entregue,5,"Embalagem perfeita, produto intacto."
+PED-1909,Loggi,15.77,Recife,2026-02-19,2026-02-27,2026-02-22,Entregue,4,"Qualidade impecável, voltarei a comprar."
+PED-1910,FedEx,47.13,Curitiba,2026-02-19,2026-03-01,,Cancelado,1,Produto chegou com defeito.
+PED-1911,FedEx,51.79,São Paulo,2026-02-20,2026-03-01,2026-02-25,Entregue,4,"Entrega rápida, muito satisfeito!"
+PED-1912,Correios,17.24,Joinville,2026-02-21,2026-03-02,2026-03-04,Entregue,2,Atrasou e a caixa veio amassada.
+PED-1913,Correios,21.69,Porto Alegre,2026-02-21,2026-03-02,2026-02-25,Entregue,5,"Frete rápido, adorei!"
+PED-1914,Correios,32.71,São Paulo,2026-02-22,2026-02-27,2026-03-01,Entregue,1,"Suporte ruim, difícil contato."
+PED-1915,Loggi,38.74,Curitiba,2026-02-22,2026-03-03,2026-03-01,Entregue,5,Entrega no prazo e produto conforme descrito.
+PED-1916,FedEx,144.42,Rio de Janeiro,2026-02-23,2026-03-01,2026-03-05,Entregue,3,Esperava mais pela qualidade do produto.
+PED-1917,Jadlog,36.59,Campinas,2026-02-22,2026-03-01,2026-02-26,Entregue,5,Entrega no prazo e produto conforme descrito.
+PED-1918,Jadlog,27.01,Rio de Janeiro,2026-02-23,2026-03-02,,Cancelado,3,Embalagem poderia ser melhor.
+PED-1919,Loggi,20.76,Belo Horizonte,2026-02-22,2026-03-04,2026-03-04,Entregue,5,"Qualidade impecável, voltarei a comprar."
+PED-1920,Jadlog,119.59,Campinas,2026-02-22,2026-02-28,2026-02-25,Entregue,5,"Produto top, recomendo!"
+PED-1921,Jadlog,17.33,Belo Horizonte,2026-02-23,2026-03-02,2026-02-27,Entregue,5,"Produto original, vendedor confiável."
+PED-1922,FedEx,98.72,Belém,2026-02-23,2026-03-05,2026-02-26,Entregue,4,"Produto original, vendedor confiável."
+PED-1923,Jadlog,17.3,Curitiba,2026-02-24,2026-03-06,2026-03-04,Entregue,5,"Produto de qualidade, entrega pontual."
+PED-1924,Loggi,59.62,Belo Horizonte,2026-02-23,2026-03-01,2026-02-27,Entregue,4,Parabéns pela agilidade!
+PED-1925,Correios,86.17,Florianópolis,2026-02-24,2026-03-02,2026-03-06,Entregue,3,"Produto bom, mas o frete foi caro."
+PED-1926,Loggi,46.52,Curitiba,2026-02-24,2026-03-02,,Em Trânsito,2,Cancelei porque demorou demais.
+PED-1927,FedEx,57.6,São Paulo,2026-02-26,2026-03-04,2026-02-28,Entregue,5,Entrega no prazo e produto conforme descrito.
+PED-1928,Jadlog,35.01,Rio de Janeiro,2026-02-27,2026-03-06,2026-03-05,Entregue,5,"Produto original, vendedor confiável."
+PED-1929,Loggi,29.75,Curitiba,2026-02-26,2026-03-07,2026-03-07,Entregue,5,Excelente atendimento e entrega.
+PED-1930,Correios,143.19,Rio de Janeiro,2026-02-27,2026-03-09,,Extraviado,1,Produto não era o que esperava.
+PED-1931,FedEx,16.77,Curitiba,2026-02-27,2026-03-05,2026-03-01,Entregue,5,"Tudo certo, nota 10!"
+PED-1932,Jadlog,28.51,Curitiba,2026-02-27,2026-03-04,,Em Trânsito,3,"Razoável, poderia ser melhor."
+PED-1933,Correios,99.64,Joinville,2026-03-01,2026-03-08,2026-03-08,Entregue,4,"Chegou antes do prazo, excelente!"
+PED-1934,Loggi,44.33,Recife,2026-02-28,2026-03-05,2026-03-06,Entregue,2,Pior experiência de compra online.
+PED-1935,FedEx,23.53,São Paulo,2026-03-01,2026-03-07,2026-03-05,Entregue,4,"Produto original, vendedor confiável."
+PED-1936,Jadlog,25.53,São Paulo,2026-03-01,2026-03-06,2026-03-05,Entregue,4,"Produto original, vendedor confiável."
+PED-1937,Jadlog,99.3,Joinville,2026-03-02,2026-03-09,2026-03-08,Entregue,5,"Produto top, recomendo!"
+PED-1938,Jadlog,82.19,Manaus,2026-03-01,2026-03-07,2026-03-08,Entregue,1,Atrasou e a caixa veio amassada.
+PED-1939,FedEx,26.81,São Paulo,2026-03-01,2026-03-11,2026-03-07,Entregue,5,"Tudo certo, nota 10!"
+PED-1940,Correios,136.66,Belo Horizonte,2026-03-01,2026-03-06,2026-03-05,Entregue,4,Superou minhas expectativas!
+PED-1941,Jadlog,37.26,Belo Horizonte,2026-03-02,2026-03-08,2026-03-06,Entregue,5,"Qualidade impecável, voltarei a comprar."
+PED-1942,Correios,88.75,Curitiba,2026-03-03,2026-03-10,2026-03-08,Entregue,5,Parabéns pela agilidade!
+PED-1943,FedEx,20.96,Porto Alegre,2026-03-03,2026-03-09,2026-03-08,Entregue,4,Entrega no prazo e produto conforme descrito.
+PED-1944,Loggi,49.43,Florianópolis,2026-03-02,2026-03-08,,Em Trânsito,2,Nunca mais compro aqui.
+PED-1945,Correios,143.53,Joinville,2026-03-03,2026-03-10,2026-03-07,Entregue,4,"Muito bom, sem reclamações."
+PED-1946,Correios,21.3,Florianópolis,2026-03-03,2026-03-12,2026-03-05,Entregue,4,"Muito bom, sem reclamações."
+PED-1947,Loggi,17.05,Brasília,2026-03-04,2026-03-10,2026-03-09,Entregue,4,"Tudo certo, nota 10!"
+PED-1948,Correios,149.24,Belo Horizonte,2026-03-04,2026-03-10,2026-03-09,Entregue,4,"Produto top, recomendo!"
+PED-1949,Correios,28.09,Joinville,2026-03-04,2026-03-11,2026-03-07,Entregue,5,"Qualidade impecável, voltarei a comprar."
+PED-1950,Jadlog,129.48,São Paulo,2026-03-05,2026-03-14,2026-03-14,Entregue,5,Parabéns pela agilidade!
+PED-1951,Correios,18.75,São Paulo,2026-03-05,2026-03-14,2026-03-11,Entregue,5,"Embalagem perfeita, produto intacto."
+PED-1952,FedEx,55.81,Belo Horizonte,2026-03-05,2026-03-13,2026-03-12,Entregue,5,Ótimo custo-benefício!
+PED-1953,Jadlog,51.06,São Paulo,2026-03-05,2026-03-13,2026-03-09,Entregue,5,Excelente atendimento e entrega.
+PED-1954,Jadlog,56.39,São Paulo,2026-03-06,2026-03-16,2026-03-12,Entregue,4,Parabéns pela agilidade!
+PED-1955,Loggi,43.36,Curitiba,2026-03-06,2026-03-15,2026-03-14,Entregue,5,"Produto top, recomendo!"
+PED-1956,FedEx,20.28,Curitiba,2026-03-06,2026-03-16,2026-03-14,Entregue,4,"Chegou antes do prazo, excelente!"
+PED-1957,Correios,26.07,São Paulo,2026-03-06,2026-03-12,,Em Trânsito,4,"Entrega rápida, muito satisfeito!"
+PED-1958,Jadlog,23.4,Belém,2026-03-06,2026-03-11,2026-03-09,Entregue,5,Ótimo custo-benefício!
+PED-1959,Jadlog,81.54,Curitiba,2026-03-07,2026-03-14,,Em Trânsito,3,"Produto bom, mas o frete foi caro."
+PED-1960,Loggi,94.98,Rio de Janeiro,2026-03-09,2026-03-17,2026-03-14,Entregue,5,Parabéns pela agilidade!
+PED-1961,Loggi,20.13,São Paulo,2026-03-08,2026-03-16,2026-03-13,Entregue,4,Excelente atendimento e entrega.
+PED-1962,Loggi,91.02,Joinville,2026-03-10,2026-03-20,2026-03-16,Entregue,5,"Produto original, vendedor confiável."
+PED-1963,Correios,73.11,Goiânia,2026-03-10,2026-03-15,,Em Trânsito,2,Muito atraso na entrega.
+PED-1964,Correios,25.66,São Paulo,2026-03-11,2026-03-17,2026-03-15,Entregue,4,Ótimo custo-benefício!
+PED-1965,FedEx,28.89,Joinville,2026-03-12,2026-03-22,,Em Trânsito,4,"Produto original, vendedor confiável."
+PED-1966,FedEx,37.59,Porto Alegre,2026-03-11,2026-03-17,2026-03-21,Entregue,2,"Veio errado, tive que devolver."
+PED-1967,Correios,137.25,São Paulo,2026-03-11,2026-03-21,2026-03-21,Entregue,4,"Produto top, recomendo!"
+PED-1968,Jadlog,41.98,Campinas,2026-03-12,2026-03-22,2026-03-22,Entregue,5,"Tudo certo, nota 10!"
+PED-1969,FedEx,36.13,Joinville,2026-03-13,2026-03-21,2026-03-19,Entregue,4,Parabéns pela agilidade!
+PED-1970,Loggi,120.03,Joinville,2026-03-13,2026-03-23,2026-03-15,Entregue,5,Entrega no prazo e produto conforme descrito.
+PED-1971,Correios,141.89,Florianópolis,2026-03-13,2026-03-20,2026-03-16,Entregue,5,Parabéns pela agilidade!
+PED-1972,Jadlog,125.96,Porto Alegre,2026-03-13,2026-03-22,2026-03-16,Entregue,4,Excelente atendimento e entrega.
+PED-1973,Correios,63.46,Curitiba,2026-03-14,2026-03-23,2026-03-19,Entregue,4,"Qualidade impecável, voltarei a comprar."
+PED-1974,FedEx,92.19,São Paulo,2026-03-14,2026-03-19,2026-03-19,Entregue,4,"Frete rápido, adorei!"
+PED-1975,Jadlog,81.55,Belo Horizonte,2026-03-14,2026-03-23,2026-03-16,Entregue,5,Parabéns pela agilidade!
+PED-1976,Jadlog,20.01,Salvador,2026-03-15,2026-03-20,,Em Trânsito,4,Superou minhas expectativas!
+PED-1977,Loggi,17.49,Florianópolis,2026-03-16,2026-03-21,2026-03-20,Entregue,4,"Chegou antes do prazo, excelente!"
+PED-1978,Jadlog,134.05,São Paulo,2026-03-16,2026-03-21,2026-03-21,Entregue,4,"Chegou antes do prazo, excelente!"
+PED-1979,Correios,17.88,Joinville,2026-03-17,2026-03-25,,Extraviado,2,"Produto extraviado, tive que abrir reclamação."
+PED-1980,FedEx,46.56,Rio de Janeiro,2026-03-17,2026-03-22,2026-03-20,Entregue,5,Excelente atendimento e entrega.
+PED-1981,Correios,42.14,Curitiba,2026-03-18,2026-03-28,2026-03-21,Entregue,4,"Chegou antes do prazo, excelente!"
+PED-1982,Correios,116.63,São Paulo,2026-03-19,2026-03-24,2026-03-21,Entregue,5,"Qualidade impecável, voltarei a comprar."
+PED-1983,FedEx,71.35,Belo Horizonte,2026-03-21,2026-03-29,2026-04-01,Entregue,1,Nunca mais compro aqui.
+PED-1984,Jadlog,93.06,São Paulo,2026-03-21,2026-03-31,2026-03-29,Entregue,4,Parabéns pela agilidade!
+PED-1985,Jadlog,24.35,Joinville,2026-03-22,2026-03-30,2026-03-30,Entregue,4,"Tudo certo, nota 10!"
+PED-1986,FedEx,34.79,Curitiba,2026-03-22,2026-03-30,,Em Trânsito,2,Produto não era o que esperava.
+PED-1987,FedEx,67.33,Rio de Janeiro,2026-03-21,2026-03-28,2026-03-24,Entregue,4,"Produto top, recomendo!"
+PED-1988,Correios,56.29,Porto Alegre,2026-03-21,2026-03-26,,Em Trânsito,3,"Produto ok, mas a entrega atrasou um pouco."
+PED-1989,Loggi,109.73,Campinas,2026-03-22,2026-04-01,,Em Trânsito,4,"Qualidade impecável, voltarei a comprar."
+PED-1990,FedEx,123.13,Rio de Janeiro,2026-03-23,2026-04-02,2026-03-29,Entregue,5,"Produto original, vendedor confiável."
+PED-1991,FedEx,142.57,Brasília,2026-03-23,2026-03-28,2026-03-25,Entregue,4,"Muito bom, sem reclamações."
+PED-1992,FedEx,21.8,Curitiba,2026-03-23,2026-04-02,,Cancelado,2,"Produto extraviado, tive que abrir reclamação."
+PED-1993,Loggi,18.45,Joinville,2026-03-23,2026-03-28,2026-04-02,Entregue,1,Pior experiência de compra online.
+PED-1994,Jadlog,48.15,Belém,2026-03-24,2026-04-03,,Cancelado,2,"Não recomendo, péssima experiência."
+PED-1995,Jadlog,16.65,Manaus,2026-03-26,2026-03-31,2026-04-02,Entregue,1,Produto chegou com defeito.
+PED-1996,FedEx,85.72,Belo Horizonte,2026-03-26,2026-04-05,2026-04-03,Entregue,5,Excelente atendimento e entrega.
+PED-1997,Jadlog,27.1,São Paulo,2026-03-27,2026-04-03,2026-04-08,Entregue,2,Nunca mais compro aqui.
+PED-1998,Jadlog,44.13,Manaus,2026-03-27,2026-04-03,2026-03-29,Entregue,5,"Entrega rápida, muito satisfeito!"
+PED-1999,FedEx,130.35,Belo Horizonte,2026-03-27,2026-04-06,2026-03-30,Entregue,5,Entrega no prazo e produto conforme descrito.
