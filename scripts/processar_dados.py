@@ -43,12 +43,12 @@ def rotular_prazo(row):
 
 df_consolidado['status_entrega'] = df_consolidado.apply(rotular_prazo, axis=1)
 
-excel_name = 'RELATORIO_ECOMMERCE_202503_202603_CONSOLIDADO.xlsx'
+excel_name = 'RELATORIO_CONSOLIDADO.xlsx'
 excel_path = os.path.join(OUTPUT_DIR, excel_name)
 
 with pd.ExcelWriter(excel_path, engine='openpyxl') as writer:
     # Aba Principal para o Dashboard
-    df_consolidado.to_excel(writer, sheet_name='DATA_CONSOLIDADO', index=False)
+    df_consolidado.to_excel(writer, sheet_name='BASE DE DADOS', index=False)
     # Abas de Auditoria (Dados crus)
     df_vendas.to_excel(writer, sheet_name='RAW_VENDAS', index=False)
     df_logistica.to_excel(writer, sheet_name='RAW_LOGISTICA', index=False)
