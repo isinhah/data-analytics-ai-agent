@@ -10,7 +10,7 @@ Este projeto integra **Dashboards de Performance (Power BI & Excel)** a um **Age
 ## 🛠️ Arquitetura do Sistema
 
 ```mermaid
-graph LR
+graph TD
     A[📄 Arquivo Bruto CSV] -->|ETL Python| B{Processamento}
     B -->|Carga| C[(🛢️ Supabase DB)]
     B -->|Diretório Local| D[📊 Planilhas Excel]
