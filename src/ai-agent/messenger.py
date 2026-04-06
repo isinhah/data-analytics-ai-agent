@@ -7,7 +7,7 @@ load_dotenv()
 class TelegramMessenger:
     def __init__(self):
         self.token = os.getenv("TELEGRAM_BOT_TOKEN")
-        self.chat_id = os.getenv("CHAT_ID")
+        self.chat_id = os.getenv("TELEGRAM_CHAT_ID")
         self.url_base = f"https://api.telegram.org/bot{self.token}/sendMessage"
 
     def enviar_mensagem(self, texto):

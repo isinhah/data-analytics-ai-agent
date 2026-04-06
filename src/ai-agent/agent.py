@@ -1,11 +1,12 @@
 import os
-from pathlib import Path
-
 import pandas as pd
+
+from pathlib import Path
 from sqlalchemy import create_engine, text
 from google import genai
 from google.genai import types
 from dotenv import load_dotenv
+from guardrails import SQLGuardrails
 
 load_dotenv()
 
@@ -15,6 +16,8 @@ class DataAgent:
     def __init__(self):
         self.client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
         self.engine = create_engine(os.getenv("DATABASE_URL"))
+
+        self.guardrails = SQLGuardrails()
 
         caminho_db = BASE_DIR / "llm-docs" / "database_manual.md"
         caminho_agente = BASE_DIR / "llm-docs" / "agent_manual.md"
@@ -31,8 +34,8 @@ class DataAgent:
         print(f"🚀 Agente inicializado. Root: {BASE_DIR}")
 
     def executar_sql(self, sql: str):
-        """Tool: Executa queries SELECT/WITH no Supabase."""
-        is_safe, result = self.guardrails.validate_query(sql)
+        """Tool: Executa queries SELECT/WITH no banco de dados."""
+        is_safe, result = self.guardrails.validar_query(sql)
 
         if not is_safe:
             print(f"🛑 Tentativa de query bloqueada: {sql}")
@@ -42,7 +45,7 @@ class DataAgent:
             print(f"🔍 [SQL SEGURO]: {result}")
             with self.engine.connect() as conn:
                 df_res = pd.read_sql(text(result), conn)
-                return df_res.to_json(orient='records')
+                return df_res.to_csv(index=False)
         except Exception as e:
             return f"Erro na execução do SQL: {str(e)}"
 
@@ -56,7 +59,7 @@ class DataAgent:
         🖥️ *Software*: Lucro de **R$ 55.107,67** com margem de **35,87%**.
         🎧 *Acessórios*: Lucro de **R$ 27.801,95** com margem de **21,13%**.
 
-        💡 *Insight do Analista*: A categoria Software possui a melhor margem, sugerindo espaço para ações de marketing agressivas para aumentar o volume. Hardware gera o maior volume, mas a margem é mais apertada.
+        💡 *Insight do Analista*: A categoria Software possui a melhor margem, sugerindo ações de marketing.
         """
 
         system_instructions = f"""
@@ -66,13 +69,24 @@ class DataAgent:
         {self.db_manual}
 
         ### INSTRUÇÕES TÉCNICAS E DE FORMATAÇÃO:
-        - Use OBRIGATORIAMENTE a ferramenta 'executar_sql' para qualquer análise.
-        - JAMAIS responda com a tabela textual crua (ex: * Categoria: Lucro ...).
-        - **Formate o resultado como um relatório executivo profissional para o Telegram, usando emojis e negrito para destacar valores.**
-        - Use este estilo como exemplo de formatação:
+        
+        - Negrito: Use EXATAMENTE dois asteriscos antes e depois da palavra: **exemplo**.
+        - Espaçamento: NUNCA coloque caracteres especiais (pontos, hifens, parênteses) colados nos asteriscos de negrito. Exemplo Correto: **R$ 150,00** . (com espaço entre o negrito e o ponto).
+        - Fechamento: Certifique-se de que cada ** aberto seja fechado obrigatoriamente na mesma linha.
+        - Valores Monetários: Use SEMPRE vírgula para decimais (ex: R$ 10,50). O uso de ponto em valores numéricos causa erro de renderização no Telegram.
+        - Caracteres Sensíveis: Caracteres como ., -, !, (, ) são reservados. Evite usá-los excessivamente fora de blocos de código.
+        
+        - Use OBRIGATORIAMENTE a ferramenta executar_sql para qualquer análise de dados.
+        - Se o usuário solicitar a query ou código, use OBRIGATORIAMENTE blocos formatados: ```sql [SUA QUERY] ```. SEMPRE feche o bloco com as três crases.
+        
+        - Proibição de Tabelas: JAMAIS responda com tabelas Markdown ou texto cru do banco de dados.
+        - Estrutura de Tópicos: Para detalhar itens ou grandes volumes de dados, use listas verticais com emojis para facilitar a leitura.
+        - Estilo Executivo: Formate o resultado como um relatório profissional, usando negrito para destacar KPIs e emojis temáticos.
+        - Insights: Sempre adicione um pequeno insight (💡) ao final, analisando a tendência dos dados.
+        - Feedback Amigável: Se o resultado da consulta for vazio, explique de forma educada e sugira uma pergunta alternativa.
+        
+        - Exemplo de Referência:
         {exemplo_formatacao}
-        - Tente sempre adicionar um pequeno insight (💡) ao final se os dados permitirem.
-        - Se o resultado vier vazio, explique ao usuário de forma amigável.
         
         ### COMPORTAMENTO DO AGENTE:
         - Você é um Analista de Dados exclusivo desta loja. 
@@ -117,11 +131,11 @@ class DataAgent:
     def gerar_relatorio_diario(self):
         """Gera o relatório com os 4 KPIs principais do Dashboard."""
         sql_kpis = """
-                   SELECT SUM(valor_venda_final) as receita_total, \
-                          SUM(lucro_liquido) as lucro_total, \
-                          AVG(margem_lucro_pct) * 100 as margem_media_pct, \
+                   SELECT SUM(valor_venda_final) as receita_total,
+                          SUM(lucro_liquido) as lucro_total,
+                          AVG(margem_lucro_pct) * 100 as margem_media_pct,
                           (COUNT(CASE WHEN status_entrega = 'No Prazo' THEN 1 END) * 100.0 / COUNT(*)) as pct_no_prazo
-                   FROM vendas_logistica_db; \
+                   FROM vendas_logistica_db;
                    """
         dados = self.executar_sql(sql_kpis)
 
