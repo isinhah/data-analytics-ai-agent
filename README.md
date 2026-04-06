@@ -1,7 +1,7 @@
 # 🤖 Analista de E-commerce: Agente de IA + Dashboards de Performance</h1>
 
 <div style="text-align: left;">
-  <img src="assets/ai-agent-analysis-gif.gif" alt="Demonstração do Agente de IA" width="1160">
+  <img src="assets/ai-agent-analysis-gif.gif" alt="Demonstração do Agente de IA" width="1690">
 </div>
 
 ## 🔍 Sobre o Projeto
