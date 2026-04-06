@@ -7,6 +7,10 @@
 ## 🔍 Sobre o Projeto
 Este projeto integra **Dashboards de Performance (Power BI & Excel)** a um **Agente de IA (Gemini)** para análise de dados de e-commerce, utilizando um processo de **ETL em Python** para centralizar informações em um **banco de dados em nuvem (Supabase)** e entregar **insights estratégicos e relatórios via Telegram**.
 
+## 🎯 O Problema e a Solução
+- ❌ **Problema**: A fragmentação das informações em diversos arquivos CSV e planilhas manuais gera uma dependência de saber ferramentas como SQL para responder perguntas do dia a dia, resultando em gráficos que mostram o que aconteceu, mas não o porquê, por falta de uma interface de consulta fluida.
+- ✅ **Solução**: O projeto consolida os arquivos em um banco de dados Supabase, substituindo queries complexas por perguntas em Linguagem Natural via Telegram e integrando a visão analítica do Power BI & Excel à inteligência do Agente de IA (Gemini).
+
 ## 🛠️ Arquitetura do Sistema
 
 ```mermaid
