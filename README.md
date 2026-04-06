@@ -34,7 +34,7 @@ graph TD
 ```
 
 ## ✨ Funcionalidades Principais
-- 💬 **Consultas em Linguagem Natural**: Permite interação com o banco de dados via **Telegram**, permitindo que os gestores façam perguntas complexas sem precisa saber SQL.
+- 💬 **Consultas em Linguagem Natural**: Permite interação com o banco de dados via **Telegram**, permitindo que os gestores façam perguntas complexas sem precisar saber SQL.
 - 📋 **Relatórios Executivos**: Geração de relatórios financeiros e logísticos via comando `/relatorio`, entregando KPIs essenciais rapidamente.
 - 🛡️ **Camada de Segurança**: Implementação de **Guardrails** que validam as queries geradas pela IA, prevenindo execuções maliciosas no banco de dados.
 - 🔄 **Pipeline de Dados (ETL)**: Fluxo contínuo em **Python** que transforma dados brutos de arquivos CSV/Excel em tabelas estruturadas no **Supabase**, garantindo que tanto os Dashboards quanto o Agente de IA trabalhem com uma **única fonte de dados**.
