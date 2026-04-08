@@ -10,7 +10,7 @@ DATA_DIR = './data'
 OUTPUT_DIR = './output'
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-# 1. LEITURA E LIMPEZA (Seu código original)
+# 1. LEITURA, LIMPEZA E MERGE
 df_vendas = pd.read_csv(f'{DATA_DIR}/vendas_transacional.csv')
 df_logistica = pd.read_csv(f'{DATA_DIR}/logistica_satisfacao.csv')
 
